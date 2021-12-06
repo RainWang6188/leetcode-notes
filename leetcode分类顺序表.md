@@ -5,8 +5,8 @@
 | 题号     | 题目链接                                                     | 题目说明      | 完成日期 | 备注 |
 | -------- | ------------------------------------------------------------ | ------------- | -------- | ---- |
 | 基础     |                                                              |               |          |      |
-| 27       | [Remove Element](https://leetcode.com/problems/remove-element/) |               |          |      |
-| 26       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |               |          |      |
+| 27       | [Remove Element](https://leetcode.com/problems/remove-element/) |               |   2021/12/06       |      |
+| 26       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |               |  2021/12/06        |      |
 | 80       | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |               |          |      |
 | 277      | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) |               |          |      |
 | 189      | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) |               |          |      |
