@@ -30,7 +30,7 @@ public:
 };
 ```
 ## 3. Classic Solutions
-Since the `erase()` method is expensive, we should not use it due to the runtime and memory usage concern. A better solution would use a pointer `index`, which always pointing to the next to-be-removed element, and we can update it once we encounter `nums[i] != val`.
+Since the `erase()` method is expensive, we should not use it due to the runtime and memory usage concern. A better solution would use a pointer `index`, which always points to the next position to be replaced, and we can increment it once we encounter `nums[i] != val`.
 ```C++
 class Solution {
 public:
