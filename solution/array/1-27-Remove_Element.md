@@ -1,5 +1,5 @@
 # 27. Remove Element
-## 1. Description
+## Description
 Given an integer array `nums` and an integer `val`, remove all occurrences of `val` in `nums` in-place. The relative order of the elements may be changed. If there are `k` elements after removing the duplicates, then the first `k` elements of `nums` should hold the final result. It does not matter what you leave beyond the first `k` elements.
 
 **Examples**
@@ -11,7 +11,7 @@ Note that the five elements can be returned in any order.
 It does not matter what you leave beyond the returned k (hence they are underscores).
 ```
 
-## 2. My Solution
+## My Solution
 Since `nums` is an integer vector, we can simply use `nums.erase()` method to eliminate elements equal to `val` in one loop. However, there're a few notes need to keep in mind
 - `erase()` method will remove an element at the given position and shorten the vector by one. But the cost is **expensive**.
 - The ending condition in the for loop should be `it < nums.size()`, not `it != nums.size()`, or there'll be memory leakage.
@@ -29,7 +29,7 @@ public:
     }
 };
 ```
-## 3. Classic Solutions
+## Classic Solutions
 Since the `erase()` method is expensive, we should not use it due to the runtime and memory usage concern. A better solution would use a pointer `index`, which always points to the next position to be replaced, and we can increment it once we encounter `nums[i] != val`.
 ```C++
 class Solution {
