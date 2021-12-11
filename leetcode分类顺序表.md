@@ -8,7 +8,7 @@
 | 27       | [Remove Element](https://leetcode.com/problems/remove-element/) |               |   2021/12/06       |      |
 | 26       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |               |  2021/12/06        |      |
 | 80       | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |               |  2021/12/09        |      |
-| 277      | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) | (Premium)              |          |      |
+| 277      | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) |               |          | Premium     |
 | 189      | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) |               |  2021/12/11        |      |
 | 41       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |               |          |      |
 | 299      | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) |               |          |      |
