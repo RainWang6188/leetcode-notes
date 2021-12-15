@@ -11,7 +11,7 @@
 | 277      | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) |               |          | Premium     |
 | 189      | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) |               |  2021/12/11        |      |
 | 41       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |               |  2021/12/15        |    X  |
-| 299      | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) |               |          |      |
+| 299      | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) |               |    2021/12/15      |      |
 | 134      | [Gas Station](https://leetcode.com/problems/gas-station/description/) |               |          |      |
 | 118      | [Pascal’s Triangle](https://leetcode.com/problems/pascals-triangle/description/) | 很少考        |          |      |
 | 119      | [Pascal’s Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | 很少考        |          |      |
@@ -182,7 +182,7 @@
 | 16     | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | 很少考 |          |      |
 | 259    | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | 很少考 |          |      |
 | 18     | [4Sum](https://leetcode.com/problems/4sum/description/)      |        |          |      |
-| 很少考 |                                                              |        |          |      |
+| 很少考|                                                              |        |          |      |
 | 231    | [Power of Two](https://leetcode.com/problems/power-of-two/description/) |        |          |      |
 | 326    | [Power of Three](https://leetcode.com/problems/power-of-three/description/) |        |          |      |
 | 342    | [Power of Four](https://leetcode.com/problems/power-of-four/description/) |        |          |      |
