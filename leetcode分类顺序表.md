@@ -10,7 +10,7 @@
 | 80       | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |               |  2021/12/09        |      |
 | 277      | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) |               |          | Premium     |
 | 189      | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) |               |  2021/12/11        |      |
-| 41       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |               |          |      |
+| 41       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |               |  2021/12/15        |    X  |
 | 299      | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) |               |          |      |
 | 134      | [Gas Station](https://leetcode.com/problems/gas-station/description/) |               |          |      |
 | 118      | [Pascal’s Triangle](https://leetcode.com/problems/pascals-triangle/description/) | 很少考        |          |      |
