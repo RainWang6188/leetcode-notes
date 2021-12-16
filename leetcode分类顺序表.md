@@ -16,7 +16,7 @@
 | 118      | [Pascal’s Triangle](https://leetcode.com/problems/pascals-triangle/description/) | 很少考        |   12/16/2021       |      |
 | 119      | [Pascal’s Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | 很少考        |  12/16/2021        |      |
 | 169      | [Majority Element](https://leetcode.com/problems/majority-element/description/) | 很少考        | 12/16/2021         |      |
-| 229      | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | 很少考        |          |      |
+| 229      | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | 很少考        |     12/16/2021     |      |
 | 274      | [H-Index](https://leetcode.com/problems/h-index/description/) |               |          |      |
 | 275      | [H-Index II](https://leetcode.com/problems/h-index-ii/description/) | Binary Search |          |      |
 | 243      | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) |               |          |      |
