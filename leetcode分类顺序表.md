@@ -5,16 +5,16 @@
 | 题号     | 题目链接                                                     | 题目说明      | 完成日期 | 备注 |
 | -------- | ------------------------------------------------------------ | ------------- | -------- | ---- |
 | 基础     |                                                              |               |          |      |
-| 27       | [Remove Element](https://leetcode.com/problems/remove-element/) |               |   2021/12/06       |      |
-| 26       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |               |  2021/12/06        |      |
-| 80       | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |               |  2021/12/09        |      |
+| 27       | [Remove Element](https://leetcode.com/problems/remove-element/) |               |   12/06/2021       |      |
+| 26       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |               |  12/06/2021        |      |
+| 80       | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |               |  12/09/2021        |      |
 | 277      | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) |               |          | Premium     |
-| 189      | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) |               |  2021/12/11        |      |
-| 41       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |               |  2021/12/15        |    X  |
-| 299      | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) |               |    2021/12/15      |      |
-| 134      | [Gas Station](https://leetcode.com/problems/gas-station/description/) |               |          |      |
-| 118      | [Pascal’s Triangle](https://leetcode.com/problems/pascals-triangle/description/) | 很少考        |          |      |
-| 119      | [Pascal’s Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | 很少考        |          |      |
+| 189      | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) |               |  12/11/2021        |      |
+| 41       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |               |  12/15/2021        |    X  |
+| 299      | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) |               |    12/15/2021      |      |
+| 134      | [Gas Station](https://leetcode.com/problems/gas-station/description/) |               |      12/16/2021    |  TLE    |
+| 118      | [Pascal’s Triangle](https://leetcode.com/problems/pascals-triangle/description/) | 很少考        |   12/16/2021       |      |
+| 119      | [Pascal’s Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | 很少考        |  12/16/2021        |      |
 | 169      | [Majority Element](https://leetcode.com/problems/majority-element/description/) | 很少考        |          |      |
 | 229      | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | 很少考        |          |      |
 | 274      | [H-Index](https://leetcode.com/problems/h-index/description/) |               |          |      |
