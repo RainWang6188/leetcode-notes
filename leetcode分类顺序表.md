@@ -22,8 +22,8 @@
 | 243      | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) |               |          |  Premium    |
 | 244      | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/) |               |          |  Premium    |
 | 245      | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/) |               |          |  Premium    |
-| 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |               |          |      |
-| 219      | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | 很少考        |          |      |
+| 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |               |   12/18/2021       |      |
+| 219      | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | 很少考        |    12/18/2021      |      |
 | 220      | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | 很少考        |          |      |
 | 55       | [Jump Game](https://leetcode.com/problems/jump-game/description/) |               |          |      |
 | 45       | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |               |          |      |
