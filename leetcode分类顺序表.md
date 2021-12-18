@@ -24,7 +24,7 @@
 | 245      | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/) |               |          |  Premium    |
 | 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |               |   12/18/2021       |      |
 | 219      | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | 很少考        |    12/18/2021      |      |
-| 220      | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | 很少考        |          |      |
+| 220      | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | 很少考        |   12/18/2021       | TLE     |
 | 55       | [Jump Game](https://leetcode.com/problems/jump-game/description/) |               |          |      |
 | 45       | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |               |          |      |
 | 121      | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |               |          |      |
