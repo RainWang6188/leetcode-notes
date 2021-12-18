@@ -19,9 +19,9 @@
 | 229      | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | 很少考        |     12/16/2021     |      |
 | 274      | [H-Index](https://leetcode.com/problems/h-index/description/) |               |   12/17/2021       |      |
 | 275      | [H-Index II](https://leetcode.com/problems/h-index-ii/description/) | Binary Search |   12/17/2021       |      |
-| 243      | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) |               |          |      |
-| 244      | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/) |               |          |      |
-| 245      | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/) |               |          |      |
+| 243      | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) |               |          |  Premium    |
+| 244      | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/) |               |          |  Premium    |
+| 245      | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/) |               |          |  Premium    |
 | 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |               |          |      |
 | 219      | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | 很少考        |          |      |
 | 220      | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | 很少考        |          |      |
