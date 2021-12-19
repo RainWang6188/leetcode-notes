@@ -47,6 +47,19 @@ We can iterate over all indices maintaining the furthest reachable position from
 Updating the `lastJumpedPos` separately from `maxReachable` allows us to maintain track of minimum jumps required. Each time `lastJumpedPos` is updated, jumps will also be updated and store the minimum jumps required to reach `lastJumpedPos` (On the contrary, updating jumps with `maxReachable` won't give the optimal (minimum possible) value of jumps required).
 
 We will just return it as soon as `lastJumpedPos` reaches(or exceeds) last index.
+
+We can try to understand the steps in code below as analogous to those in BFS as 
+
+- `maxReachable = max(maxReachable, i + nums[i])` : Updating the range of next level. Similar to queue.push(node) step of BFS but here we are only greedily storing the max reachable index on next level.
+
+- `i == lastJumpedPos` : When it becomes true, current level iteration has been completed.
+
+- `lastJumpedPos = maxReachable` : Set range till which we need to iterate the next level
+
+- `jumps++` : Move on to the next level.
+
+- `return jumps` : The final answer will be number of levels in BFS traversal.
+
 ```C++
 int jump(vector<int>& nums) {
 	int n = size(nums), i = 0, maxReachable = 0, lastJumpedPos = 0, jumps = 0;
