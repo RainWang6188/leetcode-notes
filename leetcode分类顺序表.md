@@ -25,8 +25,8 @@
 | 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |               |   12/18/2021       |      |
 | 219      | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | 很少考        |    12/18/2021      |      |
 | 220      | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | 很少考        |   12/18/2021       | TLE     |
-| 55       | [Jump Game](https://leetcode.com/problems/jump-game/description/) |               |          |      |
-| 45       | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |               |          |      |
+| 55       | [Jump Game](https://leetcode.com/problems/jump-game/description/) |               |     12/19/2021     |      |
+| 45       | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |               |    12/19/2021      |  DP review    |
 | 121      | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |               |          |      |
 | 122      | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |               |          |      |
 | 123      | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |               |          |      |
