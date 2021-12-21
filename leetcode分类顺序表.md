@@ -29,9 +29,9 @@
 | 45       | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |               |    12/19/2021      |  DP review    |
 | 121      | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |               |     12/20/2021     |      |
 | 122      | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |               |  12/20/2021        |      |
-| 123      | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |               |          |      |
-| 188      | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |               |          |      |
-| 309      | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) |               |          |      |
+| 123      | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |               |          |  X (DP review)    |
+| 188      | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |               |          | X (DP review)     |
+| 309      | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) |               |          | X (DP review)     |
 | 11       | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |               |          |      |
 | 42       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |               |          |      |
 | 334      | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/) |               |          |      |
