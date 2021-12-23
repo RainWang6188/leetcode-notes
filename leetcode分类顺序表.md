@@ -35,7 +35,7 @@
 | 11       | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |               |   12/22/2021       |      |
 | 42       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |               |  12/22/2021        |  TLE    |
 | 334      | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/) |               |  12/23/2021        |   X   |
-| 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |               |          |      |
+| 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |               |  12/23/2021        |      |
 | 164      | [Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | Bucket        |          |      |
 | 287      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |               |          |      |
 | 135      | [Candy](https://leetcode.com/problems/candy/description/)    | 很少考        |          |      |
