@@ -62,4 +62,51 @@ int findDuplicate(vector<int>& nums) {
 }
 ```
 
-### 2. Floyd's cycle-finding algorithm
+### 2. Floyd's Tortoise and Hare Algorithm
+If there is no duplicate in the array, we can map each indexes to each numbers in this array. In other words, we can have a mapping function `f(index) = number`
+
+For example, let's assume
+`nums = [2,1,3]`, then the mapping function is `0->2, 1->1, 2->3`.
+
+If we start from `index = 0`, we can get a value according to this mapping function, and then we use this value as a new index and, again, we can get the other new value according to this new index. We repeat this process until the index exceeds the array. Actually, by doing so, we can get a sequence. Using the above example again, the sequence we get is `0->2->3`. (Because `index=3` exceeds the array's size, the sequence terminates!)
+
+However, if there is duplicate in the array, the mapping function is many-to-one.
+
+For example, let's assume
+`nums = [2,1,3,1]`, then the mapping function is `0->2, {1,3}->1, 2->3`. Then the sequence we get definitely has a cycle. `0->2->3->1->1->1->1->1->........` The starting point of this cycle is the duplicate number.
+
+We can use Floyd's Tortoise and Hare Algorithm to find the starting point.
+
+Here is the detail of Floyd's Tortoise and Hare Algorithm.
+
+1. Initialize two pointers (tortoise and hare) that both point to the head of the linked list
+2. Loop as long as the hare does not reach null
+3. Set tortoise to next node
+4. Set hare to next, next node
+5. If they are at the same node, the list is circular. 
+7. Reset the tortoise back to the head.
+6. Have both tortoise and hare both move one node at a time until they meet again
+7. Return the node in which they meet
+8. Else, if the hare reaches null, then return null
+
+You can have a proof of the algorithm [here](https://leetcode.com/discuss/general-discussion/1116359/Intro-to-Floyd's-Cycle-Detection-Algorithm).
+
+Time Complexity: $O(N)$, Space Complexity: $O(1)$.
+```c++
+int findDuplicate(vector<int>& nums) {
+    int tortoise = 0, hare = 0;
+    
+    do{
+        tortoise = nums[tortoise];
+        hare = nums[nums[hare]];
+    } while(tortoise != hare);
+    
+    tortoise = 0;
+    while(tortoise != hare) {
+        tortoise = nums[tortoise];
+        hare = nums[hare];
+    }
+    
+    return tortoise;
+}
+```
