@@ -37,7 +37,7 @@
 | 334      | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/) |               |  12/23/2021        |   X   |
 | 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |               |  12/23/2021        |      |
 | 164      | [Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | Bucket        |   12/24/2021       |      |
-| 287      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |               |          |      |
+| 287      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |               |   12/24/2021       |      |
 | 135      | [Candy](https://leetcode.com/problems/candy/description/)    | 很少考        |          |      |
 | 330      | [Patching Array](https://leetcode.com/problems/patching-array/description/) | 很少考        |          |      |
 | 提高     |                                                              |               |          |      |
