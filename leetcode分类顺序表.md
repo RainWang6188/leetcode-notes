@@ -41,7 +41,7 @@
 | 135      | [Candy](https://leetcode.com/problems/candy/description/)    | 很少考        |    12/25/2021   | X |
 | 330      | [Patching Array](https://leetcode.com/problems/patching-array/description/) | 很少考        |  12/25/2021  | X   |
 | 提高     |                                                              |               |          |      |
-| 4        | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | 很少考        |          |      |
+| 4        | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | 很少考        |   12/25/2021       |      |
 | 321      | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/) | 很少考        |          |      |
 | 327      | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/) |               |          |      |
 | 289      | [Game of Life](https://leetcode.com/problems/game-of-life/description/) |               |          |      |
