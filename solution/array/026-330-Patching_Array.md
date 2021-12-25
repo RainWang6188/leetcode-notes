@@ -16,7 +16,7 @@ So we only need 1 patch.
 ```
 
 ## My Solution
-I didn't figure out the correct solution...
+I didn't figure out the correct solution... This problem can be solved by greedy as well according to [here](https://leetcode.com/problems/patching-array/discuss/78495/Share-my-thinking-process).
 
 
 ## Classic Solution
