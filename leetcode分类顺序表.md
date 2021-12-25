@@ -39,7 +39,7 @@
 | 164      | [Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | Bucket        |   12/24/2021       |      |
 | 287      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |               |   12/24/2021       |      |
 | 135      | [Candy](https://leetcode.com/problems/candy/description/)    | 很少考        |    12/25/2021   | X |
-| 330      | [Patching Array](https://leetcode.com/problems/patching-array/description/) | 很少考        |          |      |
+| 330      | [Patching Array](https://leetcode.com/problems/patching-array/description/) | 很少考        |  12/25/2021  | X   |
 | 提高     |                                                              |               |          |      |
 | 4        | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | 很少考        |          |      |
 | 321      | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/) | 很少考        |          |      |
