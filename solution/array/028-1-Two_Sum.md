@@ -41,6 +41,8 @@ Another time-saving comlexity is to use hashing, which only needs one pass.
 
 We traverse the `nums` array linearly. For each element `nums[i]`, we first check if it's in the hash map. If not, we push `target - nums[i]` into the map, and set `i` as its value. So next time when we encounter `target - nums[i]`, we would easily to find that it has already in the hash map.
 
+Time Complexity: $O(N)$; Space Complexity: $O(N)$.
+
 ```C++
 vector<int> twoSum(vector<int>& nums, int target) {
     vector<int> index;
