@@ -10,8 +10,6 @@
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  12/26/2021    |         |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 12/26/2021     |         |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 12/26/2021     | X        |
-| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |      |         |
-| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |      |         |
 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |      |         |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |      |         |
 | [3 Sum](https://leetcode.com/problems/3sum/)                 |      |         |
@@ -134,6 +132,8 @@
 
 | Title                                                        | Date | Comment |
 | ------------------------------------------------------------ | ---- | ------- |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |      |         |
+| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |      |         |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |      |         |
 | [Coin Change](https://leetcode.com/problems/coin-change/)    |      |         |
 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |      |         |
