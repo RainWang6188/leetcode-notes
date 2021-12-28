@@ -5,43 +5,43 @@
 | 题号     | 题目链接                                                     | 题目说明      | 完成日期 | 备注 |
 | -------- | ------------------------------------------------------------ | ------------- | -------- | ---- |
 | 基础     |                                                              |               |          |      |
-| 27       | [Remove Element](https://leetcode.com/problems/remove-element/) |               |   12/06/2021       |      |
-| 26       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |               |  12/06/2021        |      |
-| 80       | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |               |  12/09/2021        |      |
+| 27       | [Remove Element](https://leetcode.com/problems/remove-element/) |               |   12/06/21       |      |
+| 26       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |               |  12/06/21        |      |
+| 80       | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |               |  12/09/21        |      |
 | 277      | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) |               |          | Premium     |
-| 189      | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) |               |  12/11/2021        |      |
-| 41       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |               |  12/15/2021        |    X  |
-| 299      | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) |               |    12/15/2021      |      |
-| 134      | [Gas Station](https://leetcode.com/problems/gas-station/description/) |               |      12/16/2021    |  TLE    |
-| 118      | [Pascal’s Triangle](https://leetcode.com/problems/pascals-triangle/description/) | 很少考        |   12/16/2021       |      |
-| 119      | [Pascal’s Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | 很少考        |  12/16/2021        |      |
-| 169      | [Majority Element](https://leetcode.com/problems/majority-element/description/) | 很少考        | 12/16/2021         |      |
-| 229      | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | 很少考        |     12/16/2021     |      |
-| 274      | [H-Index](https://leetcode.com/problems/h-index/description/) |               |   12/17/2021       |      |
-| 275      | [H-Index II](https://leetcode.com/problems/h-index-ii/description/) | Binary Search |   12/17/2021       |      |
+| 189      | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) |               |  12/11/21        |      |
+| 41       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |               |  12/15/21        |    X  |
+| 299      | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) |               |    12/15/21      |      |
+| 134      | [Gas Station](https://leetcode.com/problems/gas-station/description/) |               |      12/16/21    |  TLE    |
+| 118      | [Pascal’s Triangle](https://leetcode.com/problems/pascals-triangle/description/) | 很少考        |   12/16/21       |      |
+| 119      | [Pascal’s Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | 很少考        |  12/16/21        |      |
+| 169      | [Majority Element](https://leetcode.com/problems/majority-element/description/) | 很少考        | 12/16/21         |      |
+| 229      | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | 很少考        |     12/16/21     |      |
+| 274      | [H-Index](https://leetcode.com/problems/h-index/description/) |               |   12/17/21       |      |
+| 275      | [H-Index II](https://leetcode.com/problems/h-index-ii/description/) | Binary Search |   12/17/21       |      |
 | 243      | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) |               |          |  Premium    |
 | 244      | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/) |               |          |  Premium    |
 | 245      | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/) |               |          |  Premium    |
-| 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |               |   12/18/2021       |      |
-| 219      | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | 很少考        |    12/18/2021      |      |
-| 220      | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | 很少考        |   12/18/2021       | TLE     |
-| 55       | [Jump Game](https://leetcode.com/problems/jump-game/description/) |               |     12/19/2021     |      |
-| 45       | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |               |    12/19/2021      |  DP review    |
-| 121      | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |               |     12/20/2021     |      |
-| 122      | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |               |  12/20/2021        |      |
+| 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |               |   12/18/21       |      |
+| 219      | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | 很少考        |    12/18/21      |      |
+| 220      | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | 很少考        |   12/18/21       | TLE     |
+| 55       | [Jump Game](https://leetcode.com/problems/jump-game/description/) |               |     12/19/21     |      |
+| 45       | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |               |    12/19/21      |  DP review    |
+| 121      | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |               |     12/20/21     |      |
+| 122      | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |               |  12/20/21        |      |
 | 123      | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |               |          |  DP review    |
 | 188      | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |               |          | DP review     |
 | 309      | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) |               |          | DP review     |
-| 11       | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |               |   12/22/2021       |      |
-| 42       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |               |  12/22/2021        |  TLE    |
-| 334      | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/) |               |  12/23/2021        |   X   |
-| 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |               |  12/23/2021        |      |
-| 164      | [Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | Bucket        |   12/24/2021       |      |
-| 287      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |               |   12/24/2021       |      |
-| 135      | [Candy](https://leetcode.com/problems/candy/description/)    | 很少考        |    12/25/2021   | X |
-| 330      | [Patching Array](https://leetcode.com/problems/patching-array/description/) | 很少考        |  12/25/2021  | X   |
+| 11       | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |               |   12/22/21       |      |
+| 42       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |               |  12/22/21        |  TLE    |
+| 334      | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/) |               |  12/23/21        |   X   |
+| 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |               |  12/23/21        |      |
+| 164      | [Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | Bucket        |   12/24/21       |      |
+| 287      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |               |   12/24/21       |      |
+| 135      | [Candy](https://leetcode.com/problems/candy/description/)    | 很少考        |    12/25/21   | X |
+| 330      | [Patching Array](https://leetcode.com/problems/patching-array/description/) | 很少考        |  12/25/21  | X   |
 | 提高     |                                                              |               |          |      |
-| 4        | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | 很少考        |   12/25/2021       |      |
+| 4        | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | 很少考        |   12/25/21       |      |
 | 321      | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/) | 很少考        |          |      |
 | 327      | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/) |               |          |      |
 | 289      | [Game of Life](https://leetcode.com/problems/game-of-life/description/) |               |          |      |
