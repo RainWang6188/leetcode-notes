@@ -12,7 +12,7 @@
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 12/26/2021     | X        |
 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |   12/27/2021   |         |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 12/27/2021     |         |
-| [3 Sum](https://leetcode.com/problems/3sum/)                 |      |         |
+| [3 Sum](https://leetcode.com/problems/3sum/)                 |  12/28/2021    |  X       |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |      |         |
 
 
