@@ -23,7 +23,7 @@
 | ------------------------------------------------------------ | ---- | ------- |
 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |   12/29/21   | X        |
 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  12/29/21    |         |
-| [Counting Bits](https://leetcode.com/problems/counting-bits/) |      |         |
+| [Counting Bits](https://leetcode.com/problems/counting-bits/) |  12/29/21    |   DP Review      |
 | [Missing Number](https://leetcode.com/problems/missing-number/) |      |         |
 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  |      |         |
 
