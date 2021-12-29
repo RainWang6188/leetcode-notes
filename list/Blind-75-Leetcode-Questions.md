@@ -25,7 +25,7 @@
 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  12/29/21    |   Trick of N&(N-1)      |
 | [Counting Bits](https://leetcode.com/problems/counting-bits/) |  12/29/21    |   DP Review      |
 | [Missing Number](https://leetcode.com/problems/missing-number/) | 12/29/21     |         |
-| [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  |      |         |
+| [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  |  12/29/21    |         |
 
 
 
