@@ -38,4 +38,3 @@ static bool my_cmp(vector<int>& interval_1, vector<int>& interval_2) {
     return interval_1[0] < interval_2[0];
 }
 ```
-## Classic Solution
