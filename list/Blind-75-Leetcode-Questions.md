@@ -34,7 +34,7 @@
 | Title                                                        | Date | Comment |
 | ------------------------------------------------------------ | ---- | ------- |
 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | 12/30/21     |         |
-| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |      |         |
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |  12/30/21    |         |
 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |      |         |
 | [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/) |      |         |
 | [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/) |      |         |
