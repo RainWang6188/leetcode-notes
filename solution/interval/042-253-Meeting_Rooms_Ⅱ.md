@@ -15,6 +15,7 @@ Input: [[2,7]]
 Output: 1
 ```
 ## Classic Solutions
+> [reference](https://www.jiuzhang.com/solution/meeting-rooms-ii/)
 ### 1. Two Pointer + Sort
 The first solution is sort the start times and end times seperately, and use two pointers to traverse the arrays and maintain the `count` at the same time. The maximum `count` during the traversal is the maximum number of meeting rooms needed.
 ```C++
