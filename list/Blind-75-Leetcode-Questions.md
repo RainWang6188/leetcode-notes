@@ -60,7 +60,7 @@
 | ------------------------------------------------------------ | ---- | ------- |
 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  1/2/22    |         |
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 1/12/22     |         |
-| [Rotate Image](https://leetcode.com/problems/rotate-image/)  |      |         |
+| [Rotate Image](https://leetcode.com/problems/rotate-image/)  |   1/12/22   | X        |
 | [Word Search](https://leetcode.com/problems/word-search/)    |      |         |
 
 
