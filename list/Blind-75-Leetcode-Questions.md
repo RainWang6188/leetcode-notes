@@ -73,7 +73,7 @@
 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 1/14/22     | X        |
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 1/17/22     | X        |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |  1/15/22    |         |
-| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |      |         |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |1/17/22      |   TLE      |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |      |         |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |      |         |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |      |         |
