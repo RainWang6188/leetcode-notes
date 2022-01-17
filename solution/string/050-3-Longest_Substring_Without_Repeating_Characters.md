@@ -39,7 +39,31 @@ int lengthOfLongestSubstring(string s) {
 ```
 
 ## Classic Solution - Sliding Window
-The idea is similar, but it uses two pointers `start` and `end` to mark the current substring, so that we don't need to clear the dictionary now and then, only update is needed.
+### 1. Ordinary Sliding Window
+Here's an ordinary sliding window solution, where we extend `end` as far as possible until a duplicate character is encountered, then we extract `start` until that duplicate is resolved. Record the maximum length of substring during the slide.
+
+```C++
+int lengthOfLongestSubstring(string s) {
+    if(s.size() == 0) return 0;
+    vector<int> dict(128, 0);
+    int max_len = 0;
+    
+    for(int start = 0, end = 0; end < s.size(); end++) {
+        if(++dict[s[end]] > 1) {
+            while(s[start] != s[end])
+                dict[s[start++]]--;
+            dict[s[start++]]--;
+        }
+        else {
+            max_len = max(max_len, end - start + 1);
+        }
+    }
+    return max_len;
+}
+```
+### 2. Optimized Sliding Window
+
+The idea is similar, but it uses two pointers `start` and `end` to mark the current substring. Also, here the value of key in the `dict` is the index of the character, so that we can easily resolve the duplicate condition, and we don't need to clear the dictionary now and then, only update is needed.
 
 Here's the key: `start` only moves forward to make sure we're checking the current window. That's why `start = max(dict[s[end]] + 1, start)` is necessary.
 
