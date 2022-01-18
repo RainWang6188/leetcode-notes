@@ -74,7 +74,7 @@
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 1/17/22     | X        |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |  1/15/22    |         |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |1/17/22      |   TLE      |
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |      |         |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  1/18/22    |         |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |      |         |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |      |         |
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |      |         |
