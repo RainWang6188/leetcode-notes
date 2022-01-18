@@ -20,7 +20,7 @@ When an open parenthesis is encountered, its corresponding close parenthesis wil
 
 When an close parenthsis is encountered, we'll check if the top element of the stack is itself, otherwise, its not valid.
 
-Note
+**Note:**
 
 - vector.pop_back() will return void instead of the top element.
 - vector.back() will return the last element.
