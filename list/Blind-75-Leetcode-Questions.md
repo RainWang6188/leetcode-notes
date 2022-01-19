@@ -76,7 +76,7 @@
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |1/17/22      |   TLE      |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  1/18/22    |         |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 1/18/22     |         |
-| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1/19/22     |         |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1/19/22     |  DP Review       |
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |      |         |
 | [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/) |      |         |
 
