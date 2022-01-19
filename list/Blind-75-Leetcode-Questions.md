@@ -78,7 +78,7 @@
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 1/18/22     |         |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1/19/22     |  DP Review       |
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | 1/19/22     | DP Review        |
-| [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/) |      |         |
+| [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/) | 1/19/22     |         |
 
 
 
