@@ -86,7 +86,7 @@
 
 | Title                                                        | Date | Comment |
 | ------------------------------------------------------------ | ---- | ------- |
-| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |      |         |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  1/20/22    |         |
 | [Same Tree](https://leetcode.com/problems/same-tree/)        |      |         |
 | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |      |         |
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |      |         |
