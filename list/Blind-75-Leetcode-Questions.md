@@ -90,7 +90,7 @@
 | [Same Tree](https://leetcode.com/problems/same-tree/)        |1/20/22      |         |
 | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 1/20/22     |         |
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 1/20/22     |   X      |
-| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |      |         |
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 1/20/22     |         |
 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |      |         |
 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |      |         |
 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |      |         |
