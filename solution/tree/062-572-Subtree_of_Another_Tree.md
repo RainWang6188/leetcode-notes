@@ -33,5 +33,3 @@ bool isIdentical(TreeNode *root1, TreeNode *root2) {
         return false;
 }
 ```
-
-Note that in the return sentence of `isSubtree()`, the latter two expression is `isSubtree()`, not `isIdentical()`, for we don't need two trees to be exactly the same, only if subtree property holds is fine.

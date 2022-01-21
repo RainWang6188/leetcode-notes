@@ -61,3 +61,11 @@ private:
 // Codec ser, deser;
 // TreeNode* ans = deser.deserialize(ser.serialize(root));
 ```
+
+Note that in the return sentence of `isSubtree()`, the latter two expression is `isSubtree()`, not `isIdentical()`, for we don't need two trees to be exactly the same, only if subtree property holds is fine.
+
+**Note:**
+
+- Reconstruction simply using **inorder** traversal would **NOT** work. (e.g. `2 as the root and 1 as the right child` and `1 as the root and 2 as the left child` produce the same result)
+
+- Reconstruction using **preorder/postorder** + **inoder** will **NOT** work correctly. That works only if all nodes are **distinct**. This problem allows for duplicate node values.
