@@ -1,5 +1,12 @@
 # Tree Traversals
-In this post, we will discuss 4 ways to traverse a tree.
+In this post, we will discuss the following content related to tree traversals.
+
+- preorder traversal
+- inorder traversal
+- postorder traversal
+- levelorder traversal
+- record the path to a specific node
+
 
 ## 1. Preorder Traversal
 ### Recursive Version
@@ -198,5 +205,33 @@ vector<vector<int>> levelOrder(TreeNode* root) {
         res.push_back(current_level);
     }
     return res;
+}
+```
+
+## 5. Record Path to a Node
+```C++
+bool has_path(TreeNode* root, TreeNode* target, vector<TreeNode*>& route) {
+    if(!root)
+        return false;
+    
+    route.push_back(root);
+    if(root == target)
+        return true;
+    
+    if(has_path(root->left, target, route) || has_path(root->right, target, route))
+        return true;
+    
+    route.pop_back();
+    return false;
+}
+
+void print_path(TreeNode* root, TreeNode* target) {
+    vector<TreeNode*> route;
+    if(has_path(root, target, route)) {
+        for(auto node : route)
+            cout << node->val << " ";
+    }
+    else
+        cout << "No path" << endl;
 }
 ```
