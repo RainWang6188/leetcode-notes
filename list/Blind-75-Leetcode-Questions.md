@@ -97,7 +97,7 @@
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |  1/21/22    |         |
 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |1/21/22      |         |
 | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 1/22/22     |         |
-| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) |      |         |
+| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 1/22/22     |  X       |
 | [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) |      |         |
 | [Word Search II](https://leetcode.com/problems/word-search-ii/) |      |         |
 
