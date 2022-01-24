@@ -132,7 +132,7 @@
 
 | Title                                                        | Date | Comment |
 | ------------------------------------------------------------ | ---- | ------- |
-| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |      |         |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 1/24/22     |         |
 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |      |         |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |      |         |
 | [Coin Change](https://leetcode.com/problems/coin-change/)    |      |         |
