@@ -140,7 +140,7 @@
 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 1/25/22     |   X      |
 | [Word Break Problem](https://leetcode.com/problems/word-break/) | 1/25/22     |  TLE      |
 | [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) | 1/25/22     |         |
-| [House Robber](https://leetcode.com/problems/house-robber/)  |      |         |
+| [House Robber](https://leetcode.com/problems/house-robber/)  | 1/25/22     |         |
 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) |      |         |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/)    |      |         |
 | [Unique Paths](https://leetcode.com/problems/unique-paths/)  |      |         |
