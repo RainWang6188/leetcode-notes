@@ -141,7 +141,7 @@
 | [Word Break Problem](https://leetcode.com/problems/word-break/) | 1/25/22     |  TLE      |
 | [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) | 1/25/22     |         |
 | [House Robber](https://leetcode.com/problems/house-robber/)  | 1/25/22     |         |
-| [House Robber II](https://leetcode.com/problems/house-robber-ii/) |      |         |
+| [House Robber II](https://leetcode.com/problems/house-robber-ii/) |  1/25/22    |         |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/)    |      |         |
 | [Unique Paths](https://leetcode.com/problems/unique-paths/)  |      |         |
 | [Jump Game](https://leetcode.com/problems/jump-game/)        |      |         |
