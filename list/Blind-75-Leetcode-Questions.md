@@ -144,5 +144,5 @@
 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) |  1/25/22    |         |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | 1/25/22     |         |
 | [Unique Paths](https://leetcode.com/problems/unique-paths/)  | 1/25/22     |         |
-| [Jump Game](https://leetcode.com/problems/jump-game/)        |      |         |
+| [Jump Game](https://leetcode.com/problems/jump-game/)        | 1/25/22     |         |
 
