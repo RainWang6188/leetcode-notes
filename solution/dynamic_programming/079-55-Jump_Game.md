@@ -36,4 +36,17 @@ bool canJump(vector<int>& nums) {
 }
 ```
 ## Classic Solution
+### Greedy
+Always record the maximum index it can reach at each iteration.
 
+```C++
+bool canJump(vector<int>& nums) {
+    int reach = 0;
+    for(int i = 0; i < nums.size(); i++) {
+        if(reach < i)
+            return false;
+        reach = max(reach, nums[i] + i);
+    }
+    return true;
+}
+```
