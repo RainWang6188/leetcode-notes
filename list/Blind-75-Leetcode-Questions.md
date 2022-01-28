@@ -108,7 +108,7 @@
 | Title                                                        | Date | Comment |
 | ------------------------------------------------------------ | ---- | ------- |
 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 1/28/22     |  lambda Review       |
-| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |      |         |
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  1/28/22    |         |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |      |         |
 
 
