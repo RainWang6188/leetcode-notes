@@ -53,7 +53,60 @@ bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
 ```
 
 ### 2. DFS for a cycle
+```C++
+// mapping: current course -> required courses
+unordered_map<int, vector<int>> G;
+vector<bool> visited;
+vector<bool> onPath;
+bool hasCircle = false;
 
+bool canFinish(int numCourses, vector<pair<int, int>>& req) {
+    visited = vector<bool>(numCourses, false);
+    onPath = vector<bool>(numCourses, false);
+
+    buildGraph(req);
+    
+    // traverse the Graph
+    for (int i = 0; i < numCourses; i++)
+        if (!visited[i]) dfs(i);
+    
+    if (hasCircle) return false;
+    
+    // can I finish all?
+    for (int i = 0; i < numCourses; i++) 
+        if (visited[i] == false) return false;
+    
+    return true;
+}
+
+void dfs(int s) {
+    
+    visited[s] = true;
+    onPath[s] = true; // choose
+    
+    // G[s] is the adjacent vertices of s
+    // In other word, G[s] is the pre-required courses
+    for (int w : G[s]) {
+        if      (hasCircle)   { return; } 
+        else if (!visited[w]) { dfs(w); } 
+        else if (onPath[w])   { hasCircle = true; } // find circle 
+    }
+    
+    onPath[s] = false; // unchoose
+}
+
+void buildGraph(vector<pair<int, int>> req) {
+    for (auto p : req) {
+        int target = p.first;
+        int required = p.second;
+        
+        if (G.count(target) == 0)
+            G[target] = vector<int>();
+        
+        G[target].push_back(required);
+    }
+}
+```
 
 ## Classic Solution
 Here's a better way to implement topological sort.
