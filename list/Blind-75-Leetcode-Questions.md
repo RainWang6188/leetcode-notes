@@ -121,7 +121,7 @@
 | [Course Schedule](https://leetcode.com/problems/course-schedule/) |  1/31/22    |         |
 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) |  1/31/22    | X        |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 2/1/22     |         |
-| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |      |         |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |2/1/22      |   Review      |
 | [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/) |      |         |
 | [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/) |      |         |
 | [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |      |         |
