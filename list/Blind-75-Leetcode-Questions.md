@@ -123,7 +123,7 @@
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 2/1/22     |         |
 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |2/1/22      |   Review      |
 | [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/) | 2/1/22     |         |
-| [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/) |      |         |
+| [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/) | 2/1/22     |         |
 | [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |      |         |
 
 
