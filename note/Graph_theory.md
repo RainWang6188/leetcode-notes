@@ -1,3 +1,63 @@
+# 0. Union Find
+- Definition: Given a set $S$ and some relations, find all the equivalence classes.
+
+- Algorithms: `S[v] = v's parent` and `S[root] = -1`
+    
+    - Set Union
+        ```C++
+        void SetUnion(DisSet S, SetType Rt1, SetType Rt2) {
+            S[Rt1] = Rt2;
+        }
+        ```
+    - Find
+        ```C++
+        ElementType Find(DisSet S, ElementType X) {
+            while(S[X] != -1)
+                X = S[X];
+            return X;
+        }
+        ```
+- Improvement
+
+    - smart union algorithms
+
+        - Union by Size
+            `S[root] = -size`, always change the smaller tree
+
+        - Union by Height
+            `S[root] = -height`, always change the shallow tree
+
+    - Path Compression
+
+        Direct each element `X` to the `root` during the `Find()` operation.
+
+        Slow for singal find, but faster for a sequence of find operations.
+
+        - Recursive Version
+        ```C++
+        ElementType Find(DisSet S, ElementType X) {
+            if(S[X] < 0)
+                return X;
+            else
+                X = Find(S, S[X]);
+        }
+        ```
+
+        - Iterative Version
+        ```C++
+        ElementType Find(DisSet S, ElementType X) {
+            ElementType root, tail, lead;
+            for(root = X; S[root] >= 0 root = S[root])
+                ;
+            for(tail = X; tail != root; tail = lead) {
+                lead = S[tail];
+                S[tail] = root;
+            }
+            return root;
+        }
+        ```
+
+
 # 1. Topological Sort
 - Definition: A **topological order** is a linear ordering of the vertices of a graph such that, for any two vertices, $i, j$, if $i$ is a predecessor of $j$ in the network, then $i$ precedes $j$ in the linear ordering.
 
@@ -213,3 +273,31 @@ for k from 1 to |V|
                 dist[i][j] ← dist[i][k] + dist[k][j]
             end if
 ```
+
+# 3.  Connected Components
+- Definition: In graph theory, a **connnected component** of an undirected graph is a connected subgraph that is not part of any larger connected subgraph
+
+## 3.1 Connected Components in an Undirected Graph
+Finding connected components for an undirected graph is an easier task. We simple need to do either BFS or DFS starting from every unvisited vertex, and we get all strongly connected components. Below are steps based on DFS.
+```
+1) Initialize all vertices as not visited.
+2) Do following for every vertex 'v'.
+       (a) If 'v' is not visited before, call DFSUtil(v)
+       (b) Print new line character
+
+DFSUtil(v)
+1) Mark 'v' as visited.
+2) Print 'v'
+3) Do following for every adjacent 'u' of 'v'.
+     If 'u' is not visited, then recursively call DFSUtil(u)
+```
+
+## 3.2 Strongly Connected Components in Directed Graph
+- Definition
+
+### 3.2.1 Kosaraju's Algorithm
+
+We can find all strongly connected components in O(V+E) time using Kosaraju’s algorithm. Following is detailed Kosaraju’s algorithm.
+1) Create an empty stack `S` and do DFS traversal of a graph. In DFS traversal, after calling recursive DFS for adjacent vertices of a vertex, push the vertex to stack. In the above graph, if we start DFS from vertex 0, we get vertices in stack as `1, 2, 4, 3, 0`.
+2) Reverse directions of all arcs to obtain the transpose graph.
+3) One by one pop a vertex from S while S is not empty. Let the popped vertex be `v`. Take v as source and do DFS (call DFSUtil(v)). The DFS starting from v prints strongly connected component of v. In the above example, we process vertices in order `0, 3, 4, 2, 1` (One by one popped from stack).
