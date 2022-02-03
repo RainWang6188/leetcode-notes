@@ -151,7 +151,12 @@ void Unweighted(Table T) {
 
         It takes $O(\log |V|)$ to pop the smallest vertex from a min heap, the whole algorithm takes $O((|E| + |V|)\log |V|)$, good if the graph is sparse.
 
-        However, update the priority of a specific element can be very tricky... So we can simply ignore the previous distance `dis[i]` in the priority queue while inserting the shorter distance of `dis[i]`. [Here](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-priority_queue-stl/) is an implementation for reference.
+        However, update the priority of a specific element can be very tricky... To resolve that issue, we simply ignore the previous distance `dis[i]` in the priority queue while inserting the shorter distance of `dis[i]`. So we allow multiple instances of same vertex in priority queue. This approach doesn’t require decrease key operation and has below important properties.
+
+        - Whenever distance of a vertex is reduced, we add one more instance of vertex in priority_queue. Even if there are multiple instances, we only consider the instance with minimum distance and ignore other instances.
+        - The time complexity remains $O(|E|\log |V|))$ as there will be at most $O(|E|)$ vertices in priority queue and $O(\log |E|)$ is same as $O(\log |V|)$.
+        
+         [Here](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-priority_queue-stl/) is an implementation for reference.
 
 #### 2.1.2.2 **Bellman-Ford Algorithm**
 - Algorithm([wiki](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm))
