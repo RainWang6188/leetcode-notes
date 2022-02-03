@@ -151,7 +151,7 @@ void Unweighted(Table T) {
 
         It takes $O(\log |V|)$ to pop the smallest vertex from a min heap, the whole algorithm takes $O((|E| + |V|)\log |V|)$, good if the graph is sparse.
 
-        However, update the priority of a specific element can be very tricky...
+        However, update the priority of a specific element can be very tricky... [Here](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-priority_queue-stl/) is an implementation for reference.
 
 #### 2.1.2.2 **Bellman-Ford Algorithm**
 - Algorithm([wiki](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm))
