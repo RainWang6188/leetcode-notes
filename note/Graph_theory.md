@@ -121,7 +121,7 @@ void Unweighted(Table T) {
         
     1. Use an array `dis[]` to record the shortest distance from `s` to any other vertices. We initialize every distance as `inf` except `dis[s]=0`.
     2. We select the **unvisited** vertex `u` with the **smallest distance**, mark it as visited.
-    3. Traverse each connected vertices `v` of `u`, update the distance `dis[v]` if `dis[v] > dis[u] + len(u, v)`.
+    3. Traverse each adjacent vertices `v` of `u`, update the distance `dis[v]` if `dis[v] > dis[u] + len(u, v)`.
     4. Repeat step 2 and 3 until every vertex is visited.
 
 - Pseudocode
