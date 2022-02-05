@@ -24,7 +24,7 @@ Suppose `dp[i][j]` represents the longest common subsequence of string `text1(0,
 $$
 dp[i+1][j+1] = 
 \begin{cases}
-    dp[i][j] + 1 & \text{if } text1[i]==text2[j] \\
+    dp[i][j] + 1 & \text{if } text1[i+1]==text2[j+1] \\
     \max \big( dp[i+1][j],\ dp[i][j+1] \big) & \text{otherwise}
 \end{cases}
 $$
