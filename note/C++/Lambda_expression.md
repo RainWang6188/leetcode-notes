@@ -89,22 +89,31 @@ It includes the following parts:
 ## Examples
 For me, the most popular scenarios where lambda expressions are used is in a heap (i.e. priority queue) definition.
 
-Here is an example of a min-heap whose elements are `TreeNode*`:
+Here is an example of a min-heap whose elements are `Node*`:
 ```C++
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
+/*
+// Definition for a Node.
+class Node {
+public:
+    int val;
+    vector<Node*> neighbors;
+    Node() {
+        val = 0;
+        neighbors = vector<Node*>();
+    }
+    Node(int _val) {
+        val = _val;
+        neighbors = vector<Node*>();
+    }
+    Node(int _val, vector<Node*> _neighbors) {
+        val = _val;
+        neighbors = _neighbors;
+    }
+};
+*/
 
-    auto cmp = [&](TreeNode* a, TreeNode* b) {
+    auto cmp = [&](Node* a, Node* b) {
         return a.val > b.val;
     }
-    priority_queue<TreeNode*, vector<TreeNode*>, decltype(cmp)> pq(cmp);
+    priority_queue<Node*, vector<Node*>, decltype(cmp)> pq(cmp);
 ```
