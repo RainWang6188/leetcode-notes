@@ -136,7 +136,7 @@
 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 1/24/22     | X        |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |  1/24/22    |         |
 | [Coin Change](https://leetcode.com/problems/coin-change/)    |  1/24/22    |         |
-| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |  1/24/22    | X        |
+| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |  1/24/22    | X (Review)        |
 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 1/25/22     |   X  (Review)    |
 | [Word Break Problem](https://leetcode.com/problems/word-break/) | 1/25/22     |  TLE      |
 | [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) | 1/25/22     |         |
