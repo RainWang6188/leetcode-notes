@@ -25,7 +25,7 @@ $$
 dp[i+1][j+1] = 
 \begin{cases}
     dp[i][j] + 1 & \text{if } text1[i]==text2[j] \\
-    \max\{dp[i+1][j], dp[i][j+1] \} & \text{otherwise}
+    \max \big( dp[i+1][j],\ dp[i][j+1] \big) & \text{otherwise}
 \end{cases}
 $$
 
