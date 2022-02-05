@@ -91,7 +91,7 @@
 | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 1/20/22     |         |
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 1/20/22     |   X (Review)     |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 1/20/22     |         |
-| [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 1/21/22     | stringstream Review        |
+| [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 1/21/22     | stringstream + getline       |
 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 1/21/22     |         |
 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |1/21/22      | X         |
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |  1/21/22    |         |
