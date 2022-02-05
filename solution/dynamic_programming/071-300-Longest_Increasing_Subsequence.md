@@ -48,12 +48,14 @@ len = 1   :      [4], [5], [6], [3]   => tails[0] = 3
 len = 2   :      [4, 5], [5, 6]       => tails[1] = 5
 len = 3   :      [4, 5, 6]            => tails[2] = 6
 ```
-We can easily prove that `tails` is an increasing array. Therefore it is possible to do a binary search in `tails` array to find the one needs update.
+We can easily prove that `tails` is an increasing array. Therefore it is possible to do a binary search in `tails` array to find the one needs update (i.e. finding the leftmost `tails[index]` with `val > tails[index]` and update `tails[index+1] = val`)
 
 Each time we only do one of the two:
 
-(1) if x is larger than all `tails[i]`, append it, increase the size by 1
-(2) if `tails[i-1] < x <= tails[i]`, update `tails[i]`
+(1) if x is larger than all `tails[i]`, append it, increase the size by 1.
+
+(2) if `tails[i-1] < x <= tails[i]`, update `tails[i]`.
+
 Doing so will maintain the tails invariant. The the final answer is just the size.
 
 ```C++
