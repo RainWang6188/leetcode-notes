@@ -89,7 +89,7 @@
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  1/20/22    |         |
 | [Same Tree](https://leetcode.com/problems/same-tree/)        |1/20/22      |         |
 | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 1/20/22     |         |
-| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 1/20/22     |   X      |
+| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 1/20/22     |   X (Review)     |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 1/20/22     |         |
 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 1/21/22     | TLE        |
 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 1/21/22     |         |
@@ -107,7 +107,7 @@
 
 | Title                                                        | Date | Comment |
 | ------------------------------------------------------------ | ---- | ------- |
-| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 1/28/22     |  lambda Review       |
+| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 1/28/22     |  Lambda Review       |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  1/28/22    |         |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |      |         |
 
