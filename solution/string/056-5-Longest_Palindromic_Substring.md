@@ -86,3 +86,25 @@ string longestPalindrome(string s) {
 
 ### 2. Dynamic Programming 
 This problem can be solved by breaking down into subproblems which are reused several times. Overlapping subproblems lead us to Dynamic Programming.
+
+Suppose `dp[i][j]` represents if the substring `s[i, j]` is a valid palindrome. Then we have `dp[i][j] = (s[i]==s[j]) && (dp[i+1][j-1])`.
+
+Since `dp[i][j]` depends on the value of `dp[i+1][j-1]`, we should fill the `dp[][]` in the descending order of `i` and ascending order of `j`.
+
+```c++
+string longestPalindrome(string s) {
+    int n = s.size();
+    string res = "";
+    vector<vector<bool>> dp(n, vector<bool>(n, false));
+        
+    for(int i = n - 1; i >= 0; i--)
+        for(int j = i; j < n; j++) {
+            dp[i][j] = (s[i] == s[j]) && (j - i < 3 || dp[i+1][j-1]);
+            
+            if(dp[i][j] && j - i + 1 > res.size())
+                res = s.substr(i, j - i + 1);
+        }
+    
+    return res;
+}
+```
