@@ -70,7 +70,7 @@
 | Title                                                        | Date | Comment |
 | ------------------------------------------------------------ | ---- | ------- |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  1/13/22    | TLE        |
-| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 1/14/22     | X        |
+| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 1/14/22     | X (Review)        |
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 1/17/22     | X        |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |  1/15/22    |         |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |1/17/22      |   TLE      |
