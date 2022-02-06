@@ -91,6 +91,8 @@ Suppose `dp[i][j]` represents if the substring `s[i, j]` is a valid palindrome. 
 
 Since `dp[i][j]` depends on the value of `dp[i+1][j-1]`, we should fill the `dp[][]` in the descending order of `i` and ascending order of `j`.
 
+However, the dp soluiton may not be as efficient as the optimized brute force solution.
+
 ```c++
 string longestPalindrome(string s) {
     int n = s.size();
