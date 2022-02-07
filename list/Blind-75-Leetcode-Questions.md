@@ -35,7 +35,7 @@
 | ------------------------------------------------------------ | ---- | ------- |
 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | 12/30/21     |         |
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |  12/30/21    |   Review      |
-| [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 12/31/21     |         |
+| [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 12/31/21     | Interval Scheduling        |
 | [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/) |   12/31/21   |         |
 | [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/) |   12/31/21   |  Review       |
 
@@ -107,7 +107,7 @@
 
 | Title                                                        | Date | Comment |
 | ------------------------------------------------------------ | ---- | ------- |
-| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 1/28/22     |  Lambda Review       |
+| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 1/28/22     |  Lambda expression      |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  1/28/22    |         |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |      |         |
 
