@@ -60,25 +60,24 @@ Doing so will maintain the tails invariant. The the final answer is just the siz
 
 ```C++
 int lengthOfLIS(vector<int>& nums) {
-    vector<int> dp(nums.size(), 0);
+    vector<int> dp(nums.size(), INT_MAX);
     int max_len = 0;
     
-    for(auto val : nums) {
-        int left = 0, right = max_len;
-        while(left < right) {
-            int mid = left + ((right - left) >> 1);
+    for(auto& val : nums) {
+        int low = 0;
+        int high = max_len;
+        
+        while(low < high) {
+            int mid = low + ((high - low) >> 1);
             if(dp[mid] < val)
-                left = mid + 1;
+                low = mid + 1;
             else
-                right = mid;
+                high = mid;
         }
-        
-        dp[right] = val;
-        
-        if(right == max_len)
+        dp[high] = val;
+        if(high == max_len)
             max_len++;
     }
-    
     return max_len;
 }
 ```
