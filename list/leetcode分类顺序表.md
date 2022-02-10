@@ -541,7 +541,7 @@
 | 348  | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) |                |          |      |
 | 379  | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/description/) |                |          |      |
 | 353  | [Design Snake Game](https://leetcode.com/problems/design-snake-game/description/) |                |          |      |
-| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) |                |          |      |
+| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) |                |  2/10/22        | X (Review)     |
 | 355  | [Design Twitter](https://leetcode.com/problems/design-twitter/description/s) |                |          |      |
 | 303  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) |                |          |      |
 | 304  | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/) |                |          |      |
