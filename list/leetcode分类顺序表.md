@@ -408,7 +408,7 @@
 | ---- | ------------------------------------------------------------ | -------- | ---- |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 2/15/22         |      |
 | 286  | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | 2/15/22         |      |
-| 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) |          |      |
+| 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) |    2/18/22      |X      |
 | 339  | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) |          |      |
 | 364  | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/description/) |          |      |
 | 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) |          |      |
