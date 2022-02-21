@@ -413,7 +413,7 @@
 | 364  | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/description/) |  2/19/22        |      |
 | 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | 2/19/22         | TLE     |
 | 51   | [N-Queens](https://leetcode.com/problems/n-queens/)          | 2/21/22         |      |
-| 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |          |      |
+| 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | 2/21/22         |      |
 | 126  | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |  2/20/22        | TLE     |
 
 ------
