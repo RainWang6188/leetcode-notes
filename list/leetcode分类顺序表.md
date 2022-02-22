@@ -302,7 +302,7 @@
 | 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) |         |   2/22/22       |      |
 | 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |         |   2/22/22       |      |
 | 120  | [Triangle](https://leetcode.com/problems/triangle/description/) | 很少考  |  2/22/22        |      |
-| 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) |         |          |      |
+| 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) |         |   2/23/22       |      |
 | 139  | [Word Break](https://leetcode.com/problems/word-break/)      |         |          |      |
 | 375  | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) |         |          |      |
 | 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) |         |          |      |
