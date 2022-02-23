@@ -33,7 +33,6 @@ To get that we need the transition function:
 ```C++
 for (int k = left; k <= right; ++k)
     dp[left][right] = max(dp[left][right], nums[left-1] * nums[k] * nums[right+1] + dp[left][k-1] + dp[k+1][right])
-
 ```
 
 This transition function basically says in order to get the maximum value we can get for bursting all the balloons between `[i, j]` , we just loop through each balloon between these two indexes and make them to be the last balloon to be burst,
