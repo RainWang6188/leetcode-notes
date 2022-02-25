@@ -221,6 +221,6 @@ void quickSort(vector<int> &arr, int start, int end) {
 }
 ```
 
- On average, the algorithm takes $O(n\log {n})$ comparisons to sort $ items. In the worst case, it makes $O(n^{2})$ comparisons.
+ On average, the algorithm takes $O(n\log {n})$ comparisons to sort $n$ items. In the worst case, it makes $O(n^{2})$ comparisons.
 
 **Stable:** No
