@@ -149,7 +149,7 @@ void Unweighted(Table T) {
         It takes $O(|V|)$ to find the smallest vertex, the whole algorithm takes $O(|E| + |V|^2)$, good if the graph is dense.
     - Implementation 2 - Keep distance in a **Priority Queue**
 
-        It takes $O(\log |V|)$ to pop the smallest vertex from a min heap, the whole algorithm takes $O((|E| + |V|)\log |V|)$, good if the graph is sparse.
+        It takes $O(\log |V|)$ to pop the smallest vertex from a min heap, the whole algorithm takes $O((|E| + |V|\log |V|)$, good if the graph is sparse.
 
         However, update the priority of a specific element can be very tricky... To resolve that issue, we simply ignore the previous distance `dis[i]` in the priority queue while inserting the shorter distance of `dis[i]`. So we allow multiple instances of same vertex in priority queue. This approach doesn’t require decrease key operation and has below important properties.
 
