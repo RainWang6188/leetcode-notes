@@ -118,7 +118,7 @@
 | 171         | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |                |          |      |
 | 13          | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |                |          |      |
 | 12          | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |                |          |      |
-| 273         | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) |                |          |      |
+| 273         | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) |                |  2/26/22        | X     |
 | 246         | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/description/) |                |          |      |
 | 247         | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/) |                |          |      |
 | 248         | [Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/description/) | 很少考         |          |      |
