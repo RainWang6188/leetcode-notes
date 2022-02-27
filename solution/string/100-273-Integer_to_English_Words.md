@@ -14,7 +14,7 @@ There's a pattern in the Chinese representation: every consecutive four digits u
 
 Since the maximum `num` will be $k * 10^{12}$, which is `"万亿"` in Chinese representation. We need to add a `"万"` if the current radix is $10^{12}$.
 
-As a result, we can process digits by digits only using `"个十百千"`. Each time we convert the last digit into the Chinese and append its current radix. When the current radix is $10^4$, we will append a `"万"`; when it reaches $10^8$, we will append a `"亿"`; and when it reaches $10^12$, we will add another `"万"` (for `"万亿"`). 
+As a result, we can process digits by digits only using `"个十百千"`. Each time we convert the last digit into the Chinese and append its current radix. When the current radix is $10^4$, we will append a `"万"`; when it reaches $10^8$, we will append a `"亿"`; and when it reaches $10^{12}$, we will add another `"万"` (for `"万亿"`). 
 
 Note that for `0` as the current last digit, we need to be careful. Since we won't append a `"零"` (omitting the radix) unless there's a non-zero digits in the lower bit. 
 
