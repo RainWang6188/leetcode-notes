@@ -180,34 +180,21 @@ void heapSort(vector<int> &arr) {
 ```
 
 ## 7. Quicksort
-Quicksort is a divide and conquer algorithm which relies on a partition operation: to partition an array, an element called a **pivot** is selected. All elements smaller than the pivot are moved before it and all greater elements are moved after it. This can be done efficiently in linear time and in-place. The lesser and greater sublists are then recursively sorted. 
+Quicksort is a divide and conquer algorithm which relies on a partition operation: to partition an array, an element called a **pivot** is selected. All elements smaller than the pivot are moved before it and all greater elements are moved after it. This can be done efficiently in linear time and in-place.
 
 ```C++
 int partition(vector<int> &arr, int start, int end) {
-    int pivot = arr[start];
+    int pivot = arr[end];
 
-    int counter = 0;
-    for(int i = start + 1; i <= end; i++) {
-        if(arr[i] <= pivot) 
-            counter++;
-    }
-
-    int pivotIndex = start + counter;
-    swap(arr[pivotIndex], arr[start]);
-
-    int i = start, j = end;
-    while(i < pivotIndex && j > pivotIndex) {
-        while(arr[i] < pivot)
+    int i = start - 1;
+    for(int j = start; j <= end - 1; j++) {
+        if(arr[j] < pivot) {
             i++;
-        
-        while(arr[j] > pivot)
-            j--;
-        
-        if(i < pivotIndex && j > pivotIndex)
-            swap(arr[i++], arr[j--]);
+            swap(arr[i], arr[j]);
+        }
     }
-
-    return pivotIndex;
+    swap(arr[i+1], arr[end]);
+    return i+1;
 }
 
 void quickSort(vector<int> &arr, int start, int end) {
@@ -216,10 +203,9 @@ void quickSort(vector<int> &arr, int start, int end) {
     
     int p = partition(arr, start, end);
 
-    quickSort(arr, start, p);
+    quickSort(arr, start, p-1);
     quickSort(arr, p+1, end);
 }
-```
 
  On average, the algorithm takes $O(n\log {n})$ comparisons to sort $n$ items. In the worst case, it makes $O(n^{2})$ comparisons.
 
