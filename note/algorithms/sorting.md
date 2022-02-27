@@ -206,6 +206,7 @@ void quickSort(vector<int> &arr, int start, int end) {
     quickSort(arr, start, p-1);
     quickSort(arr, p+1, end);
 }
+```
 
  On average, the algorithm takes $O(n\log {n})$ comparisons to sort $n$ items. In the worst case, it makes $O(n^{2})$ comparisons.
 
