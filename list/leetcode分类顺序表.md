@@ -310,7 +310,7 @@
 | 二维 |                                                              |         |          |      |
 | 256  | [Paint House](https://leetcode.com/problems/paint-house/description/) |         |   2/28/22       |      |
 | 265  | [Paint House II](https://leetcode.com/problems/paint-house-ii/description/) |         |     2/28/22     |  Review    |
-| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |         |          |      |
+| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |         |   2/29/22       |      |
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) |         |          |      |
 | 97   | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |         |          |      |
 | 174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |         |          |      |
