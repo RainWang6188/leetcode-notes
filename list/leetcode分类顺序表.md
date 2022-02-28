@@ -308,7 +308,7 @@
 | 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) |         | 2/23/22         | X     |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/description/) |         |   2/23/22       |      |
 | 二维 |                                                              |         |          |      |
-| 256  | [Paint House](https://leetcode.com/problems/paint-house/description/) |         |          |      |
+| 256  | [Paint House](https://leetcode.com/problems/paint-house/description/) | 2/28/22        |          |      |
 | 265  | [Paint House II](https://leetcode.com/problems/paint-house-ii/description/) |         |          |      |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |         |          |      |
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) |         |          |      |
