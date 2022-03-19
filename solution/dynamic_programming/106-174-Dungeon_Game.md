@@ -55,6 +55,7 @@ int calculateMinimumHP(vector<vector<int>>& dungeon) {
 **Optimization**
 Instead of using a 2D matrix, we can use only a 1D matrix, for `dp[i][j]` only depends on the right and below adjacent element.
 
+Here's the updated code:
 ```C++
 int calculateMinimumHP(vector<vector<int>>& dungeon) {
     if(dungeon.empty())
