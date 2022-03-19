@@ -12,7 +12,7 @@ Output: 4
 ## Classic Solution
 This question can be solved using DP, but the state transition function is to easy to get.
 
-Suppose `dp[i][j]` represents the maximum length of the `1`-square containing `matrix[i][j]`. \
+Suppose `dp[i][j]` represents the maximum length of the `1`-square containing `matrix[i][j]`. 
 
 Then for the basic case, `dp[i][j] = (matrix[i] == '1')` when `i` or `j` is zero. That is because the length of the `1`-square is no larger than `1`.
 
