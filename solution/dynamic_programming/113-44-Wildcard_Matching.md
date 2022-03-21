@@ -60,7 +60,7 @@ bool isMatch(string s, string p) {
 ```
 
 ## Classic Solution
-greedy solution with idea of DFS
+greedy solution with idea of DFS.
 
 `starj` stores the position of last `'*'` in `p`
 
