@@ -26,6 +26,11 @@ Suppose `dp[i][j]` represents if `s[0..i-1]` matches `p[0..j-1]`. Here's the ded
     - `"X*"` repeats at least 1 time: `(s[i-1]==p[j-2] || p[j-2]=='.') && dp[i-1][j]`. Here, we erase the `s[i-1]` if it matches and compares `s[0..i-2]` with `p[0..j]` continually. 
 
 
+For the base case:
+- `dp[0][0] = true`
+- `dp[i][0] = false`, since emtpy pattern cannot match any string
+- `dp[0][j]`: only pattern in the form `#*#*#*` can match empty string, which means the `*` must be at the even-indexed position.
+
 ```C++
 bool isMatch(string s, string p) {
     if(p.empty() || p[0] == '*')
