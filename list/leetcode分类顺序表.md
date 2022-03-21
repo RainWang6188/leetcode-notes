@@ -363,7 +363,7 @@
 | 题号 | 题目链接                                                     | 完成日期 | 备注 |
 | ---- | ------------------------------------------------------------ | -------- | ---- |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) |  3/22/22        |      |
-| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |          |      |
+| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |  3/22/22        |      |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |          |      |
 | 81   | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |          |      |
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |          |      |
