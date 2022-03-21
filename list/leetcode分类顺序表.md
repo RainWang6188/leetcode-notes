@@ -323,7 +323,7 @@
 | 337  | [House Robber III](https://leetcode.com/problems/house-robber-iii/) |  DP on Trees      |   3/20/22             |  X(Review)   |
 | 276  | [Paint Fence](https://leetcode.com/problems/paint-fence/description/) |         |    3/20/22      |      |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) |         |     3/20/22     |      |
-| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |         |          |      |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |         |      3/21/22    |  X(Review)     |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |         |          |      |
 
 ## LinkedList
