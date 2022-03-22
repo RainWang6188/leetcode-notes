@@ -61,6 +61,7 @@ int search(vector<int>& nums, int target) {
 ```
 
 ## Classic Solution
+### Solution 1
 A classic solution is provide by [1337beef](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/14425/Concise-O(log-N)-Binary-search-solution). He first finds the rotation pivot (i.e. the smallest element), and then implement the binary search by remapping the current array to an ordinary ascending array.
 
 ```C++
@@ -97,3 +98,33 @@ int search(vector<int>& nums, int target) {
 For those who struggled to figure out why it is `realmid=(mid+pivot)%n`: you can think of it this way:
 
 If we want to find `realmid` for array `[4,5,6,7,0,1,2]`, you can shift the part before the rotating point to the end of the array (after 2) so that the sorted array is "recovered" from the rotating point but only longer, like this: `[4, 5, 6, 7, 0, 1, 2, 4, 5, 6, 7]`. The real mid in this longer array is the middle point between the rotating point and the last element: `(pivot + (hi+pivot)) / 2`. `(hi + pivot)` is the index of the last element. And of course, this result is larger than the real middle. So you just need to wrap around and get the remainder: `((pivot + (hi + pivot)) / 2) % n`. And this expression is effectively `(pivot + hi/2) % n`, which is `(pivot+mid) % n`.
+
+### Solution 2
+Another elegant solution which avoids finding the pivot.
+```C++
+int search(vector<int>& nums, int target) {
+    int low = 0;
+    int high = nums.size() - 1;
+    while(low < high) {
+        int mid = low + ((high - low) >> 1);
+        if(nums[mid] == target)
+            return mid;
+        
+        if(nums[mid] > nums[low]) {
+            if(nums[low] <= target && target < nums[mid])
+                high = mid - 1;
+            else
+                low = mid + 1;
+        }
+        else if(nums[mid] == nums[low])
+            low++;
+        else {
+            if(nums[mid] < target && target <= nums[high])
+                low = mid + 1;
+            else
+                high = mid - 1;
+        }
+    }
+    return nums[low] == target ? low : -1;
+}
+```
