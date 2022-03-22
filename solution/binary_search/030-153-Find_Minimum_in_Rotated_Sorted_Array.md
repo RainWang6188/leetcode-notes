@@ -64,3 +64,20 @@ int findMin(vector<int>& nums) {
     return nums[low];
 }
 ```
+
+**Optimization:**
+Here's an version no needs to check the ending condition of the loop:
+```C++
+int findMin(vector<int>& nums) {
+    int low = 0;
+    int high = nums.size() -1;
+    while(low < high) {
+        int mid = low + ((high - low) >> 1);
+        if(nums[mid] < nums[high])
+            high = mid;
+        else
+            low = mid + 1;
+    }
+    return nums[low];
+}
+```
