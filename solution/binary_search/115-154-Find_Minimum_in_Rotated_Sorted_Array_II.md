@@ -52,7 +52,7 @@ int findMin(vector<int>& nums) {
 ## Classic Solution
 When `num[mid] == num[hi]`, we couldn't sure the position of minimum in mid's left or right, so just let upper bound reduce one.
 
-But to find the minimum element **and its index**, we need to make sure the pivot index will be not passed by at `high--`, so we have to add a judgement beforehand.\
+But to find the minimum element **and its index**, we need to make sure the pivot index will be not passed by at `high--`, so we have to add a judgement beforehand.
 
 ```C++
 int findMin(vector<int>& nums) {
