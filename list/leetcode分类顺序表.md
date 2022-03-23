@@ -367,7 +367,7 @@
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |  3/22/22        |      |
 | 81   | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |    3/22/22      |  X(Review)    |
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |   2/23/22       |      |
-| 154  | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |          |      |
+| 154  | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |  2/23/22        |  Review    |
 | 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |          |      |
 | 374  | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) |          |      |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |          |      |
