@@ -47,8 +47,42 @@ bool search(vector<int>& nums, int target) {
 }
 ```
 
-**Optimization**
-We can optimize the procedure of finding the pivot index, according to the solution to [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+## Classic Solution 
+Here's an solution solves both problem with or without duplicates.
+
+```C++
+int search(vector<int>& nums, int target) {
+    int low = 0;
+    int high = nums.size() - 1;
+    while(low < high) {
+        int mid = low + ((high - low) >> 1);
+        if(nums[mid] == target)
+            return mid;
+        
+        if(nums[mid] > nums[low]) {
+            if(nums[low] <= target && target < nums[mid])
+                high = mid - 1;
+            else
+                low = mid + 1;
+        }
+        else if(nums[mid] == nums[low])
+            low++;
+        else {
+            if(nums[mid] < target && target <= nums[high])
+                low = mid + 1;
+            else
+                high = mid - 1;
+        }
+    }
+    return nums[low] == target ? low : -1;
+}
+```
+
+## Best Solution for Interview
+Since the best solution for [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) consists of two parts: finding the pivot index, and using binary search.
+
+We can optimize the procedure of finding the pivot index when the array contains duplicates, according to the solution to [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/). 
 
 ```C++
 bool search(vector<int>& nums, int target) {
@@ -81,36 +115,5 @@ bool search(vector<int>& nums, int target) {
     }
     int realLow = (low + pivot) % nums.size();
     return nums[realLow] == target ? true : false;
-}
-```
-
-## Classic Solution 
-Here's an solution solves both problem with or without duplicates.
-
-```C++
-int search(vector<int>& nums, int target) {
-    int low = 0;
-    int high = nums.size() - 1;
-    while(low < high) {
-        int mid = low + ((high - low) >> 1);
-        if(nums[mid] == target)
-            return mid;
-        
-        if(nums[mid] > nums[low]) {
-            if(nums[low] <= target && target < nums[mid])
-                high = mid - 1;
-            else
-                low = mid + 1;
-        }
-        else if(nums[mid] == nums[low])
-            low++;
-        else {
-            if(nums[mid] < target && target <= nums[high])
-                low = mid + 1;
-            else
-                high = mid - 1;
-        }
-    }
-    return nums[low] == target ? low : -1;
 }
 ```
