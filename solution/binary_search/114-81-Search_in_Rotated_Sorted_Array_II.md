@@ -47,6 +47,43 @@ bool search(vector<int>& nums, int target) {
 }
 ```
 
+**Optimization**
+We can optimize the procedure of finding the pivot index, according to the solution to [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+```C++
+bool search(vector<int>& nums, int target) {
+    int low = 0;
+    int high = nums.size() - 1;
+    while(low < high) {
+        int mid = low + ((high - low) >> 1);
+        if(nums[mid] > nums[high])
+            low = mid + 1;
+        else if(nums[mid] < nums[high])
+            high = mid;
+        else {
+            if(high > 0 && nums[high] < nums[high-1])
+                low = high;
+            else
+                high--;
+        }
+    }
+    
+    int pivot = low;
+    low = 0;
+    high = nums.size() - 1;
+    while(low < high) {
+        int mid = low + ((high - low) >> 1);
+        int realMid = (mid + pivot) % nums.size();
+        if(nums[realMid] < target)
+            low = mid + 1;
+        else
+            high = mid;
+    }
+    int realLow = (low + pivot) % nums.size();
+    return nums[realLow] == target ? true : false;
+}
+```
+
 ## Classic Solution 
 Here's an solution solves both problem with or without duplicates.
 
