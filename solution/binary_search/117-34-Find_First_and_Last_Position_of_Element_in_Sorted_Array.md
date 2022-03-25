@@ -120,3 +120,5 @@ vector<int> searchRange(vector<int>& nums, int target) {
     return res;
 }
 ```
+
+Another trick here is that we don't need to set `low = 0` after the first binary search, since the right boundary must on the right of the left boundary.
