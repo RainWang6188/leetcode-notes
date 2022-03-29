@@ -24,7 +24,6 @@ The basic algorithm is as follows:
 
 This problem is asking for LIS in two dimensions, width and height. Sorting the width reduces the problem by one dimension. If width is strictly increasing, the problem is equivalent to finding LIS in only the height dimension. However, when there is a tie in width, a strictly increasing sequence in height may not be a correct solution. For example, `[3,3]` cannot fit in `[3,4]`. Sorting height in descending order when there is a tie prevents such a sequence to be included in the solution.
 
-
 ```C++
 int maxEnvelopes(vector<vector<int>>& envelopes) {
     auto cmp = [](vector<int>& env1, vector<int>& env2) {
