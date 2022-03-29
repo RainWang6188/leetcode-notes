@@ -326,7 +326,7 @@
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |         |      3/21/22    |  X(Review)     |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |         |  3/21/22        | DFS+greedy     |
 
-## LinkedList
+## Linked List
 
 | 题号 | 题目链接                                                     | 完成日期 | 备注 |
 | ---- | ------------------------------------------------------------ | -------- | ---- |
@@ -334,7 +334,7 @@
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |  3/29/22        |      |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |    3/29/22      |      |
 | 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |   3/29/22       |      |
-| 328  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) |          |      |
+| 328  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | 3/29/22         |      |
 | 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |          |      |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |          |      |
 | 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |          |      |
