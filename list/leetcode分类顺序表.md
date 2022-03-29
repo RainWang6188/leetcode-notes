@@ -375,7 +375,7 @@
 | 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) |   3/25/22       |      |
 | 315  | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |  3/29/22        |   X(Review)   |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |    3/25/22      |      |
-| 354  | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) |          |      |
+| 354  | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) |    3/29/22      |  X(Review)    |
 
 ------
 
