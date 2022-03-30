@@ -346,7 +346,7 @@
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |   3/30/22       |   Review   |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |  3/30/22   |      |
 | 提高 |                                                              |          |      |
-| 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |          |      |
+| 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |  3/31/22        |      |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/description/) |          |      |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |          |      |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list/description/) |          |      |
