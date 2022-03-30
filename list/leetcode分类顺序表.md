@@ -340,7 +340,7 @@
 | 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |   3/30/22       |      |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |  3/30/22        |      |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) |  3/30/22        |      |
-| 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |          |      |
+| 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | 3/30/22         |      |
 | 369  | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/) |          |      |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |          |      |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |          |      |
