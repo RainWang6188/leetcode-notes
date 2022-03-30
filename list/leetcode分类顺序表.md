@@ -343,7 +343,7 @@
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | 3/30/22         |      |
 | 369  | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/) |   3/30/22       |  Review    |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |          |      |
-| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |          |      |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |   3/30/22       |   Review   |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |          |      |
 | 提高 |                                                              |          |      |
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |          |      |
