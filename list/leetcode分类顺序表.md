@@ -349,7 +349,7 @@
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |  3/31/22        |  Review    |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/description/) |    3/31/22      |      |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |   3/31/22       |  Review    |
-| 148  | [Sort List](https://leetcode.com/problems/sort-list/description/) |  3/31/22        |      |
+| 148  | [Sort List](https://leetcode.com/problems/sort-list/description/) |  3/31/22        |  Iterative Mergesort    |
 | 25   | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |          |      |
 | 61   | [Rotate List](https://leetcode.com/problems/rotate-list/description/) |          |      |
 | 86   | [Partition List](https://leetcode.com/problems/partition-list/description/) |          |      |
