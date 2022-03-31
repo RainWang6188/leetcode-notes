@@ -353,7 +353,7 @@
 | 25   | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |          |      |
 | 61   | [Rotate List](https://leetcode.com/problems/rotate-list/description/) |   3/31/22       | Review     |
 | 86   | [Partition List](https://leetcode.com/problems/partition-list/description/) |    3/31/22      |      |
-| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |          |      |
+| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |  3/31/22        |      |
 | 147  | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |          |      |
 
 ------
