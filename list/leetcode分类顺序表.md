@@ -354,7 +354,7 @@
 | 61   | [Rotate List](https://leetcode.com/problems/rotate-list/description/) |   3/31/22       | Review     |
 | 86   | [Partition List](https://leetcode.com/problems/partition-list/description/) |    3/31/22      |      |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |  3/31/22        |      |
-| 147  | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |          |      |
+| 147  | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |  3/31/22        |      |
 
 ------
 
