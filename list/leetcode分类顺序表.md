@@ -389,7 +389,7 @@
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |    4/1/22      |      |
 | 311  | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/description/) |   4/1/22       | Review     |
 | 329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) |  4/1/22        |  X(Review)    |
-| 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |          |      |
+| 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |   4/1/22 | X(Review)  |      |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |          |      |
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) |          |      |
 | 370  | [Range Addition](https://leetcode.com/problems/range-addition/description/) |          |      |
