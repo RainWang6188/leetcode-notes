@@ -386,7 +386,7 @@
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) |   4/1/22       |      |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |   4/1/22       |      |
 | 59   | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |  4/1/22        |      |
-| 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |          |      |
+| 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |    4/1/22      |      |
 | 311  | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/description/) |          |      |
 | 329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) |          |      |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |          |      |
