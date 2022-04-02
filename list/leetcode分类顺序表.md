@@ -392,7 +392,7 @@
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |   4/1/22 | X(Review)  |      |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |   4/2/22       |      |
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | 4/2/22         |  Review    |
-| 370  | [Range Addition](https://leetcode.com/problems/range-addition/description/) |          |      |
+| 370  | [Range Addition](https://leetcode.com/problems/range-addition/description/) |  4/2/22       |   X(Review)   |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/description/) |          |      |
 | 296  | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) |          |      |
 | 361  | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/description/) |          |      |
