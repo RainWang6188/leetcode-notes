@@ -405,7 +405,7 @@
 | 370  | [Range Addition](https://leetcode.com/problems/range-addition/description/) |  4/2/22       |   X(Review)   |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/description/) |   4/2/22       |      |
 | 296  | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) |     4/2/22     |  X(Review)    |
-| 361  | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/description/) |          |      |
+| 361  | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/description/) |    4/3/22      |   X(Review)   |
 | 317  | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/description/) |          |      |
 | 302  | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) |          |      |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |          |      |
