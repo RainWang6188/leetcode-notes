@@ -376,7 +376,8 @@
 | 315  | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |  3/29/22        |   X(Review)   |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |    3/25/22      |      |
 | 354  | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) |    3/29/22      |  X(Review)    |
-
+| 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | 4/3/22 | X(Review) |
+| 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | 4/3/22 | X(Review) |
 ------
 
 ## Matrix
