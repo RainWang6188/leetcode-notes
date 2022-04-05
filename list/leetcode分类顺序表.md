@@ -341,7 +341,7 @@
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |  3/30/22        |      |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) |  3/30/22        |      |
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | 3/30/22         |      |
-| 369  | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/) |   3/30/22       |  Review    |
+| 369  | [Plus One Linked List](https://www.lintcode.com/problem/904/) |   3/30/22       |  Review    |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |  3/30/22        |      |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |   3/30/22       |   Review   |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |  3/30/22   |      |
@@ -406,9 +406,9 @@
 | 370  | [Range Addition](https://leetcode.com/problems/range-addition/description/) |  4/2/22       |   X(Review)   |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/description/) |   4/2/22       |      |
 | 296  | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) |     4/2/22     |  X(Review)    |
-| 361  | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/description/) |    4/3/22      |   X(Review)   |
-| 317  | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/description/) |  4/4/22        |   X(Review)   |
-| 302  | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) |          |      |
+| 361  | [Bomb Enemy](https://www.lintcode.com/problem/553/description) |    4/3/22      |   X(Review)   |
+| 317  | [Shortest Distance from All Buildings](https://www.lintcode.com/problem/600/) |  4/4/22        |   X(Review)   |
+| 302  | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) | 4/5/22         |  Review    |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |          |      |
 | 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |          |      |
 
