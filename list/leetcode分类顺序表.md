@@ -410,7 +410,7 @@
 | 317  | [Shortest Distance from All Buildings](https://www.lintcode.com/problem/600/) |  4/4/22        |   X(Review)   |
 | 302  | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) | 4/5/22         |  Review    |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |   4/5/22       |      |
-| 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |          |      |
+| 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |  4/5/22        | X(Review)  |
 
 ------
 
