@@ -154,7 +154,8 @@
 | 392         | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |                |          |      |
 | 115         | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) |                |          |      |
 | 187         | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | 很少考         |          |      |
-
+| Newly Added |                                                              |                |          |      |
+| 923 | [3Sum With Multiplicaity](https://leetcode.com/problems/3sum-with-multiplicity/) |   | 4/6/22   | X(Review) |
 ------
 
 ## Math
