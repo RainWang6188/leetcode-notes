@@ -1,6 +1,5 @@
 # 1011. Capacity to Ship Packages Within D Days
 
-
 ## Description
 
 A conveyor belt has packages that must be shipped from one port to another within `days` days.
@@ -69,5 +68,3 @@ private:
     }
 };
 ```
-
-## Classic Solution
