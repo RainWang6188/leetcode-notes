@@ -384,10 +384,10 @@
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 4/6/22    | Review  |
 | 1482   | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |  4/6/22 |   |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)  | 4/6/22  |   |
-| 1231 | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) |   |   |
+| 1231 | [Divide Chocolate](https://www.lintcode.com/problem/1817/) | 4/7/22  | X(Review)  |
 | 1011  |  [Capacity To Ship Packages In N Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)   |   |   |
 | 875   | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) |   |    |
-| 774   | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) |     |       |
+| 774   | [Minimize Max Distance to Gas Station](https://www.lintcode.com/problem/848/) |     |       |
 | 410   | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) |       |       |
 ------
 
