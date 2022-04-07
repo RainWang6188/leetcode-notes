@@ -388,7 +388,7 @@
 | 1011  |  [Capacity To Ship Packages In N Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)   | 4/7/22   |   |
 | 875   | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 4/7/22  |  Review  |
 | 774   | [Minimize Max Distance to Gas Station](https://www.lintcode.com/problem/848/) | 4/7/22    |  X(Review)      |
-| 410   | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) |       |       |
+| 410   | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) |  4/7/22     |       |
 ------
 
 ## Matrix
