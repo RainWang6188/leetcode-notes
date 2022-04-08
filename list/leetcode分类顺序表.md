@@ -453,7 +453,7 @@
 | 347           | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |        |   4/8/22       |      |
 |  264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)  |   |  4/8/22  | X(Review)  |
 | 313           | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/) | 很少考 | 4/8/22         |      |
-| 373           | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) | 很少考 |          |      |
+| 373           | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) | 很少考 |    4/8/22      |      |
 | 218           | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) |        |          |      |
 | 332           | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) |        |          |      |
 | 341           | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) |        |          |      |
