@@ -41,5 +41,17 @@ int nthSuperUglyNumber(int n, vector<int>& primes) {
 ### 2. priority_queue
 
 ```C++
-
+int nthSuperUglyNumber(int n, vector<int>& primes) {
+    priority_queue<long, vector<long>, greater<long>> pq;
+    pq.push(1l);
+    for(int i = 1; i < n; i++) {
+        long curr = pq.top();
+        while(!pq.empty() && pq.top() == curr)
+            pq.pop();
+        
+        for(auto& prime : primes)
+            pq.push(prime * curr);
+    }
+    return pq.top();
+}
 ```
