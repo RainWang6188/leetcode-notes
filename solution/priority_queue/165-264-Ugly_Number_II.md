@@ -75,7 +75,26 @@ int nthUglyNumber(int n) {
 }
 ```
 
-### 2. std::set
+### 2. priority queue
+skip the duplicates in each iteration.
+```C++
+int nthUglyNumber(int n) {
+    priority_queue<long, vector<long>, greater<long>> pq;
+    pq.push(1l);
+    for(int i = 1; i < n; i++) {
+        long curr = pq.top();
+        while(!pq.empty() && pq.top() == curr)
+            pq.pop();
+        
+        pq.push(2 * curr);
+        pq.push(3 * curr);
+        pq.push(5 * curr);
+    }
+    return pq.top();
+}
+```
+
+### 3. std::set
 
 Using set can avoid checking the duplicates, which is better than using priority queue.
 
