@@ -399,7 +399,7 @@
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |   4/1/22       |      |
 | 59   | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |  4/1/22        |      |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |    4/1/22      |      |
-| 311  | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/description/) |   4/1/22       | Review     |
+| 311  | [Sparse Matrix Multiplication](https://www.lintcode.com/problem/654/) |   4/1/22       | Review     |
 | 329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) |  4/1/22        |  X(Review)    |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |   4/1/22 | X(Review)  |      |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |   4/2/22       |      |
@@ -776,7 +776,7 @@
 | 307  | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) |      |
 | 308  | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) |      |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) |      |
-| 311  | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/description/) |      |
+| 311  | [Sparse Matrix Multiplication](https://www.lintcode.com/problem/654/) |      |
 | 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) |      |
 | 314  | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) |      |
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/) |      |
