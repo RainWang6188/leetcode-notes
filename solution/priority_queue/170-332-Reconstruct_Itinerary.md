@@ -16,8 +16,9 @@ Output: ["JFK","MUC","LHR","SFO","SJC"]
 ```
 
 ## Classic Solution
+
+### 1. Hierholzer Algorithm
 > excerpt from [here](https://leetcode-cn.com/problems/reconstruct-itinerary/solution/zhong-xin-an-pai-xing-cheng-by-leetcode-solution/)
-**Hierholzer Algorithm**
 
 Hierholzer 算法用于在连通图中寻找欧拉路径，其流程如下：
 
@@ -70,3 +71,39 @@ private:
 2. 整个图最多存在一个死胡同(出度和入度相差1），且这个死胡同一定是最后一个访问到的，否则无法完成一笔画。
 3. DFS的调用其实是一个拆边的过程（既每次递归调用删除一条边，所有子递归都返回后，再将当前节点加入结果集保证了结果集的逆序输出），一定是递归到这个死胡同（没有子递归可以调用）后递归函数开始返回。所以死胡同是第一个加入结果集的元素。
 4. 最后逆序的输出即可。
+
+
+### 2. Backtracking
+We cannot use `multiset` since the iterator will be broken after deletion.
+```C++
+class Solution {
+private:
+// unordered_map<出发城市, map<到达城市, 航班次数>> targets
+unordered_map<string, map<string, int>> targets;
+bool backtracking(int ticketNum, vector<string>& result) {
+    if (result.size() == ticketNum + 1) {
+        return true;
+    }
+    for (pair<const string, int>& target : targets[result[result.size() - 1]]) {
+        if (target.second > 0 ) { // 使用int字段来记录到达城市是否使用过了
+            result.push_back(target.first);
+            target.second--;
+            if (backtracking(ticketNum, result)) return true;
+            result.pop_back();
+            target.second++;
+        }
+    }
+    return false;
+}
+public:
+    vector<string> findItinerary(vector<vector<string>>& tickets) {
+        vector<string> result;
+        for (const vector<string>& vec : tickets) {
+            targets[vec[0]][vec[1]]++; // 记录映射关系
+        }
+        result.push_back("JFK");
+        backtracking(tickets.size(), result);
+        return result;
+    }
+};
+```
