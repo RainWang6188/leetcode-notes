@@ -77,33 +77,37 @@ private:
 We cannot use `multiset` since the iterator will be broken after deletion.
 ```C++
 class Solution {
-private:
-// unordered_map<出发城市, map<到达城市, 航班次数>> targets
-unordered_map<string, map<string, int>> targets;
-bool backtracking(int ticketNum, vector<string>& result) {
-    if (result.size() == ticketNum + 1) {
-        return true;
-    }
-    for (pair<const string, int>& target : targets[result[result.size() - 1]]) {
-        if (target.second > 0 ) { // 使用int字段来记录到达城市是否使用过了
-            result.push_back(target.first);
-            target.second--;
-            if (backtracking(ticketNum, result)) return true;
-            result.pop_back();
-            target.second++;
-        }
-    }
-    return false;
-}
 public:
     vector<string> findItinerary(vector<vector<string>>& tickets) {
-        vector<string> result;
-        for (const vector<string>& vec : tickets) {
-            targets[vec[0]][vec[1]]++; // 记录映射关系
+        unordered_map<string, map<string, int>> flyTo;
+        for(auto& ticket : tickets)
+            flyTo[ticket[0]][ticket[1]]++;
+
+        vector<string> itinerary;
+        itinerary.push_back("JFK");
+        dfs(flyTo, itinerary, tickets.size());
+        
+        return itinerary;
+    }
+    
+private:
+    bool dfs(unordered_map<string, map<string, int>>& flyTo, vector<string>& itinerary, int ticketNum) {
+        if(itinerary.size() == ticketNum + 1)
+            return true;
+        
+        string curr = itinerary.back();
+        for(auto& nextDest : flyTo[curr]) {
+            if(nextDest.second <= 0)
+                continue;
+            nextDest.second--;
+            itinerary.push_back(nextDest.first);
+            if(dfs(flyTo, itinerary, ticketNum))
+                return true;
+            itinerary.pop_back();
+            nextDest.second++;
         }
-        result.push_back("JFK");
-        backtracking(tickets.size(), result);
-        return result;
+        
+        return false;
     }
 };
 ```
