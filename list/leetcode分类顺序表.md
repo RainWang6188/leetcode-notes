@@ -412,7 +412,7 @@
 | 302  | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) | 4/5/22         |  Review    |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |   4/5/22       |      |
 | 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |  4/5/22        | X(Review)  |
-
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | 4/11/22 | X(Review) |
 ------
 
 ## DFS & BFS
