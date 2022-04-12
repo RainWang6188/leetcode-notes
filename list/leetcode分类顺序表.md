@@ -438,7 +438,7 @@
 | 题号          | 题目链接                                                     | 说明   | 完成日期 | 备注 |
 | ------------- | ------------------------------------------------------------ | ------ | -------- | ---- |
 | Stack         |                                                              |        |          |      |
-| 155           | [Min Stack](https://leetcode.com/problems/min-stack/description/) |        |          |      |
+| 155           | [Min Stack](https://leetcode.com/problems/min-stack/description/) |        |  4/12/22        |  Review    |
 | 232           | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |        |          |      |
 | 225           | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |        |          |      |
 | 150           | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |        |          |      |
