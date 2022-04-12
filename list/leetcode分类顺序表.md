@@ -439,7 +439,7 @@
 | ------------- | ------------------------------------------------------------ | ------ | -------- | ---- |
 | Stack         |                                                              |        |          |      |
 | 155           | [Min Stack](https://leetcode.com/problems/min-stack/description/) |        |  4/12/22        |  Review    |
-| 232           | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |        |          |      |
+| 232           | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |        |       4/12/22   |      |
 | 225           | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |        |          |      |
 | 150           | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |        |          |      |
 | 71            | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) |        |          |      |
