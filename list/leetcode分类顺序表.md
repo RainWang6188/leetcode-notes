@@ -444,7 +444,7 @@
 | 150           | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |        |   4/12/22       |      |
 | 71            | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) |        |     4/13/22     | X(Review)     |
 | 388           | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) |        |    4/13/22      | X(Review)     |
-| 394           | [Decode String](https://leetcode.com/problems/decode-string/) |        |          |      |
+| 394           | [Decode String](https://leetcode.com/problems/decode-string/) |        |  4/13/22        |  X(Review)     |
 | 224           | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |        |          |      |
 | 227           | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) |        |          |      |
 | 385           | [Mini Parser](https://leetcode.com/problems/mini-parser/description/) |        |          |      |
