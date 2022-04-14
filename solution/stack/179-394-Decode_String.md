@@ -19,6 +19,8 @@ Output: "aaabcbc"
 
 ## Classic Solution
 
+### 1. Recursive Solution
+
 Every time we meet a `'['`, we treat it as a subproblem so call our recursive function to get the content in that corresponding `'['` and `']'`. After that, repeat that content for 'num' times.
 
 Every time we meet a `']'`, we know a subproblem finished and just return the `word` we got in this subproblem.
@@ -53,4 +55,51 @@ private:
         return word;
     }
 };
+```
+
+### 2. Iterative Solution using Stack
+
+We use two stacks:
+
+- `valStk` stores the previous repeat times `k`
+- `resStk` stores the previous decoded result.
+
+```C++
+string decodeString(string s) {
+    stack<int> valStk;
+    stack<string> resStk;
+    string res = "";
+    int k = 0;
+    
+    int index = 0;
+    while(index < s.size()) {
+        if(isdigit(s[index])) {
+            k = 0;
+            while(index < s.size() && isdigit(s[index])) {
+                k = 10 * k + s[index] - '0';
+                index++;
+            }
+        }
+        else if(isalpha(s[index])) {
+            res += s[index++];
+        }
+        else if(s[index] == '[') {
+            valStk.push(k);
+            resStk.push(res);
+            res = "";
+            index++;
+        }
+        else {  // s[index] == ']'
+            string prevRes = resStk.top();
+            resStk.pop();
+            int repeatTime = valStk.top();
+            valStk.pop();
+            for(int i = 0; i < repeatTime; i++)
+                prevRes += res;
+            res = prevRes;
+            index++;
+        }
+    }
+    return res;
+}
 ```
