@@ -46,7 +46,7 @@ int largestRectangleArea(vector<int>& heights) {
 ## Classic Solution
 > This solution excerpted from [here](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/solution/84-by-ikaruga/)
 
-This algorithm uses monotonic stack.
+This algorithm uses increasing monotonic stack.
 
 单调栈
 
