@@ -265,7 +265,8 @@
 | 96       | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | 重要                 |          |      |
 | 95       | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | 很少考               |          |      |
 | 331      | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/) | 很少考               |          |      |
-
+| Newly Added   |   | | | |
+| 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)  |  | 4/15/22  |   |
 ------
 
 ## Backtracking
