@@ -16,6 +16,7 @@ Explanation: The above elevation map (black section) is represented by array [0,
 
 An solution using decreasing monotonic stack.
 
+
 ```C++
 int trap(vector<int>& height) {
     int sum = 0;
