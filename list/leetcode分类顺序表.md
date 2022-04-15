@@ -449,7 +449,7 @@
 | 224           | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |        |   4/14/22       |   X(Review)    |
 | 227           | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) |        |   4/14/22       |  Review    |
 | 772  | [Basic Calculator III](https://www.lintcode.com/problem/849/)  |       |     4/14/22   |   X(Review)   |
-| 385           | [Mini Parser](https://leetcode.com/problems/mini-parser/description/) |        |          |      |
+| 385           | [Mini Parser](https://leetcode.com/problems/mini-parser/description/) |        |    4/15/22 | X(Review)       |      |
 | 84            | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |        |          |      |
 | PriorityQueue |                                                              |        |          |      |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |    | 4/8/22   |    |
