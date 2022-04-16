@@ -267,6 +267,7 @@
 | 331      | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/) | 很少考               |          |      |
 | Newly Added   |   | | | |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)  |  | 4/15/22  |   |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |  | 4/16/22 | X(Review) |
 ------
 
 ## Backtracking
