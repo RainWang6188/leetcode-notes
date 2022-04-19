@@ -268,6 +268,7 @@
 | Newly Added   |   | | | |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)  |  | 4/15/22  |   |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |  | 4/16/22 | X(Review) |
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) |   | 4/19/22 | X(Review)   |
 ------
 
 ## Backtracking
