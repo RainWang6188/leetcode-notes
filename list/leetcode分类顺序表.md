@@ -275,7 +275,7 @@
 
 | 题号 | 题目链接                                                     | 说明                | 完成日期 | 备注 |
 | ---- | ------------------------------------------------------------ | ------------------- | -------- | ---- |
-| 78   | [Subsets](https://leetcode.com/problems/subsets/description/) |                     |          |      |
+| 78   | [Subsets](https://leetcode.com/problems/subsets/description/) |                     |    4/19/22 | X(Review)    |      |
 | 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) |                     |          |      |
 | 77   | [Combinations](https://leetcode.com/problems/combinations/description/) |                     |          |      |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) |                     |          |      |
