@@ -30,6 +30,7 @@ Here's the key to this problem: **The first element is always larger than its ne
 
 So we can record the first and second element during the in-order traversal and swap their values afterwards.
 
+
 ```C++
 void recoverTree(TreeNode* root) {
     stack<TreeNode*> stk;
