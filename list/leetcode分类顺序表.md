@@ -277,7 +277,7 @@
 | ---- | ------------------------------------------------------------ | ------------------- | -------- | ---- |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) |                     |    4/19/22 | X(Review)    |      |
 | 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) |                     |  4/19/22 | X(Review)            |      |
-| 77   | [Combinations](https://leetcode.com/problems/combinations/description/) |                     |          |      |
+| 77   | [Combinations](https://leetcode.com/problems/combinations/description/) |                     |  4/20/22        | X(Review)     |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) |                     |          |      |
 | 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |                     |          |      |
 | 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |                     |          |      |
