@@ -279,7 +279,7 @@
 | 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) |                     |  4/19/22 | X(Review)            |      |
 | 77   | [Combinations](https://leetcode.com/problems/combinations/description/) |                     |  4/20/22        |      |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) |       | 4/20/22         |  Review    |
-| 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |                     |          |      |
+| 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |                     |   4/20/22       |      |
 | 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |                     |          |      |
 | 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | Dynamic Programming |          |      |
 | 254  | [Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) |                     |          |      |
