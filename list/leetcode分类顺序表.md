@@ -284,7 +284,7 @@
 | 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | Dynamic Programming |   4/21/22       |  Review    |
 | 254  | [Factor Combinations](https://www.lintcode.com/problem/1308/) |                     | 4/21/22         |     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/description/) |                     | 4/21/22         |  Review    |
-| 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) |                     |          |      |
+| 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) |                     | 4/21/22         |   X(Review)   |
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | String              |          |      |
 | 60   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | String              |          |      |
 | 291  | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/description/) |                     |          |      |
