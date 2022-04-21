@@ -281,7 +281,7 @@
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) |       | 4/20/22         |  Review    |
 | 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |                     |   4/20/22       |      |
 | 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |                     |   2/20/22       |      |
-| 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | Dynamic Programming |          |      |
+| 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | Dynamic Programming |   4/21/22       |  Review    |
 | 254  | [Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) |                     |          |      |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/description/) |                     |          |      |
 | 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) |                     |          |      |
