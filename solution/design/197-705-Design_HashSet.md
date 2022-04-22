@@ -90,7 +90,7 @@ To implement a hashset data structure, here're some of the problems should be ad
 
     When there are too many elements in the hash table, the probability of collision will become larger and larger, and the efficiency of querying an element in the hash table will become lower and lower. Therefore, it is necessary to open up a larger space to alleviate the collision in the hash table.
 
-
+Here's an implementation using address chaining to resolve collision.
 
 ```C++
 class MyHashSet {
