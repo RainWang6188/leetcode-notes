@@ -280,7 +280,7 @@
 | 77   | [Combinations](https://leetcode.com/problems/combinations/description/) |                     |  4/20/22        |      |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) |       | 4/20/22         |  Review    |
 | 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |                     |   4/20/22       |      |
-| 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |                     |   2/20/22       |      |
+| 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |                     |   4/20/22       |      |
 | 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | Dynamic Programming |   4/21/22       |  Review    |
 | 254  | [Factor Combinations](https://www.lintcode.com/problem/1308/) |                     | 4/21/22         |     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/description/) |                     | 4/21/22         |  Review    |
@@ -552,6 +552,7 @@
 
 | 题号 | 题目链接                                                     | 说明           | 完成日期 | 备注 |
 | ---- | ------------------------------------------------------------ | -------------- | -------- | ---- |
+| 705  | [Design HashSet](https://leetcode.com/problems/design-hashset/) |          |    4/22/22       | X(Replace)      |
 | 359  | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) |                |          |      |
 | 346  | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | Sliding Window |          |      |
 | 362  | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/description/) |                |          |      |
