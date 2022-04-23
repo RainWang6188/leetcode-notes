@@ -30,6 +30,12 @@ Here's the key to this problem: **The first element is always larger than its ne
 
 So we can record the first and second element during the in-order traversal and swap their values afterwards.
 
+Here're some key notes:
+
+- To assign the `second` pointer, the `if` statement should not be `else if`, since `first` and `second` can be assigned at the same iteration.
+
+- the commmented `break` statement cannot be uncommented, since we need to find the last node which fits `curr->val < prev->val` during the in-order traversal. (like the case `3 2 1`)
+
 
 ```C++
 void recoverTree(TreeNode* root) {
@@ -52,7 +58,7 @@ void recoverTree(TreeNode* root) {
             first = prev;
         if(first && prev->val > curr->val) {
             second = curr;
-            break;
+            // break;
         }
         
         prev = curr;
