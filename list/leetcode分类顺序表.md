@@ -285,8 +285,8 @@
 | 254  | [Factor Combinations](https://www.lintcode.com/problem/1308/) |                     | 4/21/22         |     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/description/) |                     | 4/21/22         |  Review    |
 | 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) |    4/23/22 Review!!                 | 4/21/22         |   X(Review)   |
-| 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | String              |   4/22/22       | X(Review)      |
-| 60   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | String              |   4/22/22       |   Review   |
+| 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | 4/23/22 Review!!             |   4/22/22       | X(Review)      |
+| 60   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | 4/23/22 Review!!      |   4/22/22       |   Review   |
 | 291  | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/description/) |                     |          |      |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |                     |          |      |
 | 320  | [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) |                     |          |      |
