@@ -276,7 +276,7 @@
 | 题号 | 题目链接                                                     | 说明                | 完成日期 | 备注 |
 | ---- | ------------------------------------------------------------ | ------------------- | -------- | ---- |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) |                     |    4/19/22 | X(Review)    |      |
-| 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) |                     |  4/19/22 | X(Review)            |      |
+| 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) |      4/23/22 Review!!               |  4/19/22 | X(Review)            |      |
 | 77   | [Combinations](https://leetcode.com/problems/combinations/description/) |                     |  4/20/22        |      |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) |       | 4/20/22         |  Review    |
 | 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |                     |   4/20/22       |      |
@@ -284,7 +284,7 @@
 | 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | Dynamic Programming |   4/21/22       |  Review    |
 | 254  | [Factor Combinations](https://www.lintcode.com/problem/1308/) |                     | 4/21/22         |     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/description/) |                     | 4/21/22         |  Review    |
-| 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) |                     | 4/21/22         |   X(Review)   |
+| 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) |    4/23/22 Review!!                 | 4/21/22         |   X(Review)   |
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | String              |   4/22/22       | X(Review)      |
 | 60   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | String              |   4/22/22       |   Review   |
 | 291  | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/description/) |                     |          |      |
