@@ -554,6 +554,7 @@
 | ---- | ------------------------------------------------------------ | -------------- | -------- | ---- |
 | 705  | [Design HashSet](https://leetcode.com/problems/design-hashset/) |          |    4/22/22       | X(Replace)      |
 | 706  |  [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) |        |    4/22/22       | Review |
+| 1396 |  [Design Underground System](https://leetcode.com/problems/design-underground-system/) |       |  4/23/22    | X(Review) |
 | 359  | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) |                |          |      |
 | 346  | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | Sliding Window |          |      |
 | 362  | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/description/) |                |          |      |
