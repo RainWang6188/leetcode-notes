@@ -517,6 +517,7 @@
 | 题号   | 题目链接                                                     | 说明   | 完成日期 | 备注 |
 | ------ | ------------------------------------------------------------ | ------ | -------- | ---- |
 | 基础   |                                                              |        |          |      |
+| 1584   | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)  |  MST     |   2/25/22   | X(Review)      |
 | 133    | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) |        |          |      |
 | 399    | [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |        |          |      |
 | 310    | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/) |        |          |      |
