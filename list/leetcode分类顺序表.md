@@ -520,7 +520,7 @@
 | 1584   | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)  |     |      |       |
 | 1202   | [Smallest String with Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) |       |    |  |
 | 1631   | [Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) |      |     |    |
-｜ 785   | [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) |     |     |     |
+| 785   | [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) |     |     |     |
 | 133    | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) |        |          |      |
 | 399    | [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |        |          |      |
 | 310    | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/) |        |          |      |
