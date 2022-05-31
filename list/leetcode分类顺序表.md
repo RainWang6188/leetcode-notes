@@ -475,6 +475,7 @@
 | 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |          |      |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/description/) |          |      |
 | 318    | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) |          |      |
+| 1461   | [Check If a String Contains All Binary Codes of Size k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) |        |      |
 | 很少考 |                                                              |          |      |
 | 393    | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/) |          |      |
 | 201    | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) |          |      |
