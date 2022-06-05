@@ -40,7 +40,7 @@
 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 12/31/21     | Interval Scheduling        |
 | [Meeting Rooms (Leetcode Premium)](https://www.lintcode.com/problem/920/) |   12/31/21   |         |
 | [Meeting Rooms II (Leetcode Premium)](https://www.lintcode.com/problem/919/) |   12/31/21   |  Review       |
-| [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 5/30/22 | X(Review)
+
 
 
 ## Linked List
