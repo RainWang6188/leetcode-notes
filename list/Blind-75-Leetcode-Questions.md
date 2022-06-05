@@ -38,8 +38,8 @@
 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | 12/30/21     |         |
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |  12/30/21    |   Review      |
 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 12/31/21     | Interval Scheduling        |
-| [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/) |   12/31/21   |         |
-| [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/) |   12/31/21   |  Review       |
+| [Meeting Rooms (Leetcode Premium)](https://www.lintcode.com/problem/920/) |   12/31/21   |         |
+| [Meeting Rooms II (Leetcode Premium)](https://www.lintcode.com/problem/919/) |   12/31/21   |  Review       |
 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 5/30/22 | X(Review)
 
 
@@ -80,7 +80,7 @@
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 1/18/22     |         |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1/19/22     |  DP Review       |
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | 1/19/22     | DP Review        |
-| [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/) | 1/19/22     |         |
+| [Encode and Decode Strings (Leetcode Premium)](https://www.lintcode.com/problem/659/) | 1/19/22     |         |
 
 
 
@@ -124,9 +124,9 @@
 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) |  1/31/22    | X        |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 2/1/22     |         |
 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |2/1/22      |   Review      |
-| [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/) | 2/1/22     |         |
-| [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/) | 2/1/22     |         |
-| [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | 2/2/22     |         |
+| [Alien Dictionary (Leetcode Premium)](https://www.lintcode.com/problem/892/) | 2/1/22     |         |
+| [Graph Valid Tree (Leetcode Premium)](https://www.lintcode.com/problem/178/) | 2/1/22     |         |
+| [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://www.lintcode.com/problem/431) | 2/2/22     |         |
 
 
 
