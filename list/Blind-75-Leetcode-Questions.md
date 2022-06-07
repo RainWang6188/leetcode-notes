@@ -16,7 +16,7 @@
 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 5/30/22     | Review        |
 | [3 Sum](https://leetcode.com/problems/3sum/)                 |  12/28/21    |  X  (Review)     |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |  12/28/21    |   Review      |
-
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | 6/7/22   | Review  |
 
 
 ## Binary
@@ -71,8 +71,8 @@
 
 | Title                                                        | Date | Comment |
 | ------------------------------------------------------------ | ---- | ------- |
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  1/13/22    | TLE        |
-| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 1/14/22     | X (Review)        |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  6/7/22    |         |
+| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 6/7/22     | X (Review)        |
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 1/17/22     | X (Review)       |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |  1/15/22    |         |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |1/17/22      |   TLE (Review)     |
