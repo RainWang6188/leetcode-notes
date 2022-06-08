@@ -156,6 +156,7 @@
 | 187         | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | 很少考         |          |      |
 | Newly Added |                                                              |                |          |      |
 | 923 | [3Sum With Multiplicaity](https://leetcode.com/problems/3sum-with-multiplicity/) |   | 4/6/22   | X(Review) |
+| 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) |       | 6/8/22 | X(Review) |
 ------
 
 ## Math
