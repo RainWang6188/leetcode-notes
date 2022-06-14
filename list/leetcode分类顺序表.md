@@ -331,6 +331,7 @@
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) |         |     3/20/22     |      |
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |         |      3/21/22    |  X(Review)     |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |         |  3/21/22        | DFS+greedy     |
+| 583  | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) |         | 6/14/22 | X(Review) |
 
 ## Linked List
 
