@@ -157,6 +157,10 @@
 | Newly Added |                                                              |                |          |      |
 | 923 | [3Sum With Multiplicaity](https://leetcode.com/problems/3sum-with-multiplicity/) |   | 4/6/22   | X(Review) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) |       | 6/8/22 | X(Review) |
+| 745 | [Prefix and Sufix Tree](https://leetcode.com/problems/prefix-and-suffix-search/) |       |   6/20/22 | X(Review)   |
+| 1268 | [Search Suggestion System](https://leetcode.com/problems/search-suggestions-system/) |         |  6/20/22 | X(Review)   |
+| 820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) |         | 6/20/22 | X(Review)  |
+
 ------
 
 ## Math
@@ -437,6 +441,8 @@
 | 51   | [N-Queens](https://leetcode.com/problems/n-queens/)          | 2/21/22         |      |
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | 2/21/22         |      |
 | 126  | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |  2/20/22        | TLE     |
+| 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | 6/20/22 | X(Review) | 
+
 
 ------
 
