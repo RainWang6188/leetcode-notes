@@ -157,7 +157,7 @@
 | Newly Added |                                                              |                |          |      |
 | 923 | [3Sum With Multiplicaity](https://leetcode.com/problems/3sum-with-multiplicity/) |   | 4/6/22   | X(Review) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) |       | 6/8/22 | X(Review) |
-| 745 | [Prefix and Sufix Tree](https://leetcode.com/problems/prefix-and-suffix-search/) |       |   6/20/22 | X(Review)   |
+| 745 | [Prefix and Sufix Search](https://leetcode.com/problems/prefix-and-suffix-search/) |       |   6/20/22 | X(Review)   |
 | 1268 | [Search Suggestion System](https://leetcode.com/problems/search-suggestions-system/) |         |  6/20/22 | X(Review)   |
 | 820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) |         | 6/20/22 | X(Review)  |
 
@@ -274,6 +274,7 @@
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)  |  | 4/15/22  |   |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |  | 4/16/22 | X(Review) |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) |  4/23/22 Review!! | 4/19/22 | X(Review)   |
+| 1642 | [Furthest Building You can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | Greedy | 6/22/22 | X(Review) |
 ------
 
 ## Backtracking
