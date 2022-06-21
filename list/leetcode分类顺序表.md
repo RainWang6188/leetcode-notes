@@ -274,7 +274,7 @@
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)  |  | 4/15/22  |   |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |  | 4/16/22 | X(Review) |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) |  4/23/22 Review!! | 4/19/22 | X(Review)   |
-| 1642 | [Furthest Building You can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | Greedy | 6/22/22 | X(Review) |
+| 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | Greedy | 6/22/22 | X(Review) |
 ------
 
 ## Backtracking
