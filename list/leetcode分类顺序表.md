@@ -82,6 +82,8 @@
 | 315      | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |               |          |      |
 | 300      | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |               |          |      |
 | 354      | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) |               |          |      |
+| Newly Added | | | | |
+| 665 | [Non-descreasing Array](https://leetcode.com/problems/non-decreasing-array/) | Greedy | 6/28/22 | X(Review) | 
 
 ------
 
@@ -160,7 +162,7 @@
 | 745 | [Prefix and Sufix Search](https://leetcode.com/problems/prefix-and-suffix-search/) |       |   6/20/22 | X(Review)   |
 | 1268 | [Search Suggestion System](https://leetcode.com/problems/search-suggestions-system/) |         |  6/20/22 | X(Review)   |
 | 820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) |         | 6/20/22 | X(Review)  |
-
+| 1689 | [Partitioning Into Minimum Number of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) |     | 6/28/22 | X(Review) |
 ------
 
 ## Math
