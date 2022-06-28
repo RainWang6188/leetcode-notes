@@ -83,7 +83,7 @@
 | 300      | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |               |          |      |
 | 354      | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) |               |          |      |
 | Newly Added | | | | |
-| 665 | [Non-descreasing Array](https://leetcode.com/problems/non-decreasing-array/) | Greedy | 6/28/22 | X(Review) | 
+
 
 ------
 
@@ -276,7 +276,7 @@
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)  |  | 4/15/22  |   |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |  | 4/16/22 | X(Review) |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) |  4/23/22 Review!! | 4/19/22 | X(Review)   |
-| 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | Greedy | 6/22/22 | X(Review) |
+
 ------
 
 ## Backtracking
@@ -480,6 +480,16 @@
 
 ------
 
+## Greedy
+
+| 题号 | 题目链接  | 说明  | 完成日期 | 备注 |
+| ---- | ---------| ----- | -----   | ---- |
+| 665 | [Non-descreasing Array](https://leetcode.com/problems/non-decreasing-array/) |  | 6/28/22 | X(Review) | 
+| 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) |  | 6/22/22 | X(Review) |
+| 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |         |          |     |
+| 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) |  | 6/28/22  | X(Review)  |
+
+-----
 ## Bit Manipulation
 
 | 题号   | 题目链接                                                     | 完成日期 | 备注 |
