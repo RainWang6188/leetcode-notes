@@ -488,8 +488,8 @@
 | 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) |  | 6/22/22 | X(Review) |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |         |          |     |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) |  | 6/28/22  | X(Review)  |
-
------
+| 630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) |    | 6/28/22 | X(Review) |
+----- 
 ## Bit Manipulation
 
 | 题号   | 题目链接                                                     | 完成日期 | 备注 |
