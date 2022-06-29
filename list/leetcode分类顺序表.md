@@ -587,6 +587,7 @@
 | 1396 |  [Design Underground System](https://leetcode.com/problems/design-underground-system/) |       |  4/23/22    | X(Review) |
 | 284  | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) |      | 4/24/22 | X(Review) |
 | 304  | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) |           |    6/3/22     |  X(Review)    |
+| 535 | [Encode and Decode TinyURL](https://leetcode.cn/problems/encode-and-decode-tinyurl/) |  |  6/29/22  | X(Review)  |
 | 359  | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) |                |          |      |
 | 346  | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | Sliding Window |          |      |
 | 362  | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/description/) |                |          |      |
