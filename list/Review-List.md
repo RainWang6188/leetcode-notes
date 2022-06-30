@@ -13,8 +13,7 @@
 |        | [820. Short Encoding of Words](https://leetcode.cn/problems/short-encoding-of-words/) | X |
 |        | [968. Binary Tree Cameras](https://leetcode.cn/problems/binary-tree-cameras/) | X |
 | | | |
-|6/30/22 | [1. Two Sum](https://leetcode.cn/problems/two-sum/) | |
-|       | [121. Best Time to Buy and Sell Stock](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) |   |
+|6/30/22 | | |
 
 
 ---
