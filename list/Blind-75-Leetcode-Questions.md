@@ -6,10 +6,10 @@
 
 | Title                                                        | Date | Comment |
 | ------------------------------------------------------------ | ---- | ------- |
-| [Two Sum](https://leetcode.com/problems/two-sum/)            |  12/26/21    |         |
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  12/26/21    |         |
-| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 12/26/21     |         |
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 12/26/21     | X        |
+| [Two Sum](https://leetcode.com/problems/two-sum/)            |  6/30/22    |         |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  6/30/22    |         |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 6/30/22     |         |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 6/30/22     | X        |
 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |   12/27/21   |  Review       |
 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) |   5/30/22   |  X(Review)       |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 12/27/21     | Review        |
