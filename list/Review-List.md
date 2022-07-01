@@ -14,6 +14,16 @@
 |        | [968. Binary Tree Cameras](https://leetcode.cn/problems/binary-tree-cameras/) | X |
 | | | |
 |7/1/22 | [241. Different Ways to Add Parentheses](https://leetcode.cn/problems/different-ways-to-add-parentheses/)  | X |
-
-
+|       | [153. Find Minimum in Rotated Sorted Array](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) |  |
+|       | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/) | x |
+|       | [33. Search in Rotated Sorted Array](https://leetcode.cn/problems/search-in-rotated-sorted-array/) |  x  |
+|       | [81. Search in Rotated Sorted Array II](https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/) |  |
+|       | [15. 3Sum](https://leetcode.cn/problems/3sum/) |  |
+|       | [11. Container with Most Water](https://leetcode.cn/problems/container-with-most-water/) |  |
+|       | [88. Merge Sorted Array](https://leetcode.cn/problems/merge-sorted-array/) | X |
+|       | [371. Sum of Two Integers](https://leetcode.cn/problems/sum-of-two-integers/) | X |
+|       | [191. Number of 1 bits](https://leetcode.cn/problems/number-of-1-bits/) |  |
+|       | [338. Counting Bits](https://leetcode.cn/problems/counting-bits/) | X |
+|       | [268. Missing Number](https://leetcode.cn/problems/missing-number) |  |
+|       | [190. Reverse Bits](https://leetcode.cn/problems/reverse-bits/) |  |
 ---
