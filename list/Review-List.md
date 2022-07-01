@@ -13,7 +13,7 @@
 |        | [820. Short Encoding of Words](https://leetcode.cn/problems/short-encoding-of-words/) | X |
 |        | [968. Binary Tree Cameras](https://leetcode.cn/problems/binary-tree-cameras/) | X |
 | | | |
-|6/30/22 | | |
+|7/1/22 | [241. Different Ways to Add Parentheses](https://leetcode.cn/problems/different-ways-to-add-parentheses/)  | X |
 
 
 ---
