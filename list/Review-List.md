@@ -26,4 +26,9 @@
 |       | [338. Counting Bits](https://leetcode.cn/problems/counting-bits/) | X |
 |       | [268. Missing Number](https://leetcode.cn/problems/missing-number) |  |
 |       | [190. Reverse Bits](https://leetcode.cn/problems/reverse-bits/) |  |
+|   |   |    |
+| 7/2/22 | [871. Minimum Number of Refueling Stops](https://leetcode.cn/problems/minimum-number-of-refueling-stops/) | X |
+
+
+
 ---
