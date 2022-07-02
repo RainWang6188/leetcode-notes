@@ -478,6 +478,7 @@
 | 332           | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) |       |   4/11/22        |   X(Review)   |
 | 341           | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) |        |  4/11/22      |  Review    |
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) |   | 6/28/22 | X(Review) |
+| 871   | [Minimum Number of Refueling Stops](https://leetcode.cn/problems/minimum-number-of-refueling-stops/) |  | 7/2/22 | X(Review) |
 
 ------
 
