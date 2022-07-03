@@ -39,7 +39,8 @@
 |       | [143. Reorder List](https://leetcode.cn/problems/reorder-list/) |  x   |
 |   |   |   |
 | 7/3/22 | [556. Next Greater Generation](https://leetcode.cn/problems/next-greater-element-iii/) | x  |
-
-
+|         | [1354. Construct Target Array With Multiple Sums](https://leetcode.cn/problems/construct-target-array-with-multiple-sums/) |  X     |
+|        | [820. Short Encoding of Words](https://leetcode.cn/problems/short-encoding-of-words/) | X |
+|        | [968. Binary Tree Cameras](https://leetcode.cn/problems/binary-tree-cameras/) | x |
 
 ---
