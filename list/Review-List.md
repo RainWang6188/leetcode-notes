@@ -37,6 +37,8 @@
 |        | [23. Merge k Sorted Lists](https://leetcode.cn/problems/merge-k-sorted-lists/) |    |
 |        | [19. Remove Nth Node From End of List](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) |   |
 |       | [143. Reorder List](https://leetcode.cn/problems/reorder-list/) |  x   |
+|   |   |   |
+| 7/3/22 | [556. Next Greater Generation](https://leetcode.cn/problems/next-greater-element-iii/) | x  |
 
 
 
