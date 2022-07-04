@@ -42,5 +42,22 @@
 |         | [1354. Construct Target Array With Multiple Sums](https://leetcode.cn/problems/construct-target-array-with-multiple-sums/) |  X     |
 |        | [820. Short Encoding of Words](https://leetcode.cn/problems/short-encoding-of-words/) | X |
 |        | [968. Binary Tree Cameras](https://leetcode.cn/problems/binary-tree-cameras/) | x |
+| | | |
+| 7/4/22 | [1200. Minimum Absolute Difference](https://leetcode.cn/problems/minimum-absolute-difference/) |   |
+|        | [241. Different Ways to Add Parentheses](https://leetcode.cn/problems/different-ways-to-add-parentheses/)  |  |
+|       | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/) |  |
+|       | [33. Search in Rotated Sorted Array](https://leetcode.cn/problems/search-in-rotated-sorted-array/) |   |
+|       | [88. Merge Sorted Array](https://leetcode.cn/problems/merge-sorted-array/) | x |
+|       | [371. Sum of Two Integers](https://leetcode.cn/problems/sum-of-two-integers/) |  |
+|       | [338. Counting Bits](https://leetcode.cn/problems/counting-bits/) |  |
+|       | [871. Minimum Number of Refueling Stops](https://leetcode.cn/problems/minimum-number-of-refueling-stops/) |  |
+|        | [56. Merge Intervals](https://leetcode.cn/problems/merge-intervals/) |   |
+|        | [435. Non-overlapping Intervals](https://leetcode.cn/problems/non-overlapping-intervals/) |  |
+|       | [143. Reorder List](https://leetcode.cn/problems/reorder-list/) |     |
+|       | [556. Next Greater Generation](https://leetcode.cn/problems/next-greater-element-iii/) |   |
+|         | [1354. Construct Target Array With Multiple Sums](https://leetcode.cn/problems/construct-target-array-with-multiple-sums/) |  x     |
+|        | [820. Short Encoding of Words](https://leetcode.cn/problems/short-encoding-of-words/) |  |
+|        | [968. Binary Tree Cameras](https://leetcode.cn/problems/binary-tree-cameras/) |   |
+
 
 ---
