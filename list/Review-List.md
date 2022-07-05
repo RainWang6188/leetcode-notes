@@ -58,6 +58,13 @@
 |         | [1354. Construct Target Array With Multiple Sums](https://leetcode.cn/problems/construct-target-array-with-multiple-sums/) |  x     |
 |        | [820. Short Encoding of Words](https://leetcode.cn/problems/short-encoding-of-words/) |  |
 |        | [968. Binary Tree Cameras](https://leetcode.cn/problems/binary-tree-cameras/) |   |
-
+| | | |
+| 7/5/22 | [729. My Calendar I](https://leetcode.cn/problems/my-calendar-i/) |  |
+|        | [731. My Calendar II](https://leetcode.cn/problems/my-calendar-ii/) | X(seg tree) |
+|        | [732. My Calendar III](https://leetcode.cn/problems/my-calendar-iii/) | X(seg tree) |
+|        | [73. Set Matrix Zeroes](https://leetcode.cn/problems/set-matrix-zeroes/) |  |
+|        | [54. Spiral Matrix](https://leetcode.cn/problems/spiral-matrix/) |  |
+|        | [48. Rotate Image](https://leetcode.cn/problems/rotate-image/) |  |
+|        | [79. Word Search](https://leetcode.cn/problems/word-search/) |  |
 
 ---
