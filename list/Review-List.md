@@ -66,5 +66,7 @@
 |        | [54. Spiral Matrix](https://leetcode.cn/problems/spiral-matrix/) |  |
 |        | [48. Rotate Image](https://leetcode.cn/problems/rotate-image/) |  |
 |        | [79. Word Search](https://leetcode.cn/problems/word-search/) |  |
+| | | |
+| 7/6/22 | [736. Parse Lisp Expression](https://leetcode.cn/problems/parse-lisp-expression/) | X |
 
 ---
