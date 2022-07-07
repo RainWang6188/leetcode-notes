@@ -68,5 +68,15 @@
 |        | [79. Word Search](https://leetcode.cn/problems/word-search/) |  |
 | | | |
 | 7/6/22 | [736. Parse Lisp Expression](https://leetcode.cn/problems/parse-lisp-expression/) | X |
+| | | |
+| 7/7/22 | [648. Replace Words](https://leetcode.cn/problems/replace-words/) |  |
+|        | [3. Longest Substring Without Repeating Characters](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | |
+|        | [424. Longest Repeating Character Replacement](https://leetcode.cn/problems/longest-repeating-character-replacement/) | |
+|        | [Longest Substring with At Most Two Distinct Characters](https://www.lintcode.com/problem/longest-substring-with-at-most-two-distinct-characters/description) | x |
+|        | [Longest Substring with At Most K Distinct Characters](https://www.lintcode.com/problem/386/) | |
+|        | [76. Minimum Window Substring](https://leetcode.cn/problems/minimum-window-substring/) | x |
+|        | [242. Valid Anagram](https://leetcode.cn/problems/valid-anagram/) | |
+|        | [49. Group Anagrams](https://leetcode.cn/problems/group-anagrams/) | x |
+
 
 ---
