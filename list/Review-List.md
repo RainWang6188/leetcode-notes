@@ -77,6 +77,13 @@
 |        | [76. Minimum Window Substring](https://leetcode.cn/problems/minimum-window-substring/) | x |
 |        | [242. Valid Anagram](https://leetcode.cn/problems/valid-anagram/) | |
 |        | [49. Group Anagrams](https://leetcode.cn/problems/group-anagrams/) | x |
-
+| | | |
+| 7/8/22 | [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position/) ||
+|        | [20. Valid Parenthses](https://leetcode.cn/problems/valid-parentheses/) | X |
+|        | [22. Generate Parenthses](https://leetcode.cn/problems/generate-parentheses/) | |
+|        | [125. Valid Palindrome](https://leetcode.cn/problems/valid-palindrome/) | |
+|        | [5. Longest Palindromic Substring](https://leetcode.cn/problems/longest-palindromic-substring/) | |
+|        | [647. Palindromic Substrings](https://leetcode.cn/problems/palindromic-substrings/) | |
+|        | [Encode and Decode Strings](https://www.lintcode.com/problem/659/) | X |
 
 ---
